@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 19:51 UTC",
-  "updated_at": "2026-11-01 19:51 UTC",
+  "updated": "2026-11-01 19:52 UTC",
+  "updated_at": "2026-11-01 19:52 UTC",
   "items": [
     {
       "title": "Gewinnspiel beim Veranstalter",
@@ -29,25 +29,6 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Beyond Pixels",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Gewinnspiel mit The Wolf Among Us Remastered - aber nur heute - XboxDynasty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXNJLUdsSWZTQi04RkNkYlM3SjB6S0hHWWV3a0hNUUhWMnRXcHNBaldfNTc1UTFoX25takF3QTM5ZDdJSVN5SnF3VGFhbzdvbEUwN05RY2c2TG5ldTU5MXNmdkF1dDJPd0xmd0dGNUR2X3hMSkw1djBHLTkzZUVRc1lRM1hGd2ZmTVJpNUNDaFY5MXd6cHZpcnZORWVqZ09Ib2dsZ1VSRkNrNmZfdGEwVGxfOGlwMERucjRz?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-31",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "XboxDynasty",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -295,6 +276,25 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-28",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "SUPERillu",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
