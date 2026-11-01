@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 19:47 UTC",
-  "updated_at": "2026-11-01 19:47 UTC",
+  "updated": "2026-11-01 19:51 UTC",
+  "updated_at": "2026-11-01 19:51 UTC",
   "items": [
     {
       "title": "Gewinnspiel beim Veranstalter",
@@ -20,101 +20,6 @@
         "entry": false
       },
       "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "AKTIONEN & UNTERHALTUNG",
-      "url": "https://www.antenne.de/programm/aktionen/",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Ungeprüfter Hinweis: Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "Gewinnspiel beim Veranstalter",
-      "url": "https://www.antenne.de/programm/aktionen/das-geheime-geraeusch/",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "die-antenne-bayern-fankurve",
-      "url": "https://www.antenne.de/programm/aktionen/die-antenne-bayern-fankurve",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "ferienreporter",
-      "url": "https://www.antenne.de/programm/aktionen/ferienreporter",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": true
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen"
-    },
-    {
-      "title": "antenne-bayern-jetzt-noch-mehr-musik",
-      "url": "https://www.antenne.de/programm/aktionen/antenne-bayern-jetzt-noch-mehr-musik",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
       "title": "Gewinnspiel: Wir verlosen How to rob a Bank Kinogutscheine - Beyond Pixels",
