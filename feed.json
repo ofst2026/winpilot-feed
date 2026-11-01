@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 19:26 UTC",
-  "updated_at": "2026-11-01 19:26 UTC",
+  "updated": "2026-11-01 19:33 UTC",
+  "updated_at": "2026-11-01 19:33 UTC",
   "items": [
     {
       "title": "Gewinnspiel: Wir verlosen How to rob a Bank Kinogutscheine - Beyond Pixels",
@@ -86,6 +86,25 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "BR Klassik",
+      "description": "Ungeprüfter Hinweis: Pressehinweis: kein bestätigter direkter Veranstalterlink",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: kein bestätigter direkter Veranstalterlink"
+    },
+    {
+      "title": "Gewinnspiel: Jetzt mitmachen und eine schöne Nordmanntanne gewinnen! - MeinBezirk.at",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEY3eExtZEUwR1V4QmJneGVkVEg3TGU3NUtaZHRZSzA5SDUycnVSVEkzZ2dURl9kbktUSm9MOE5lcmRwbXRQbjh4MlNqNDZlQ3VmTWhIZ0JPTDltRlpWdm4ySWVJQVRyS0RfOUdMNDI3R2hWazdIWVRmV2Z5Qnp3MDBqVGxreTlnTW5ma2ZsdThEZTZ1UjNTaDl0Y09XNVRxemdqc2tEdktFUWMzWm9UYTNkYw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-30",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "MeinBezirk.at",
       "description": "Ungeprüfter Hinweis: Pressehinweis: kein bestätigter direkter Veranstalterlink",
       "verified": false,
       "verification": {
@@ -238,6 +257,25 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
+      "description": "Ungeprüfter Hinweis: Pressehinweis: kein bestätigter direkter Veranstalterlink",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: kein bestätigter direkter Veranstalterlink"
+    },
+    {
+      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-28",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "SUPERillu",
       "description": "Ungeprüfter Hinweis: Pressehinweis: kein bestätigter direkter Veranstalterlink",
       "verified": false,
       "verification": {
