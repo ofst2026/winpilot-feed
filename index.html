@@ -188,8 +188,8 @@ async function loadFeed(){
   if(!response.ok)throw new Error('HTTP '+response.status);
   const data=await response.json();
   if(!Array.isArray(data.items))throw new Error('Ungültiges Format');
-  feedEntries=data.items.filter(x=>x&&/^https:\/\//i.test(x.url||'')&&x.title).slice(0,200);
-  $('feedStatus').textContent=feedEntries.length+' Hinweise · Letzte Aktualisierung: '+(data.updated_at||'unbekannt')+(data.errors?.length?' · '+data.errors.length+' Quellenfehler':'');
+  feedEntries=data.items.filter(x=>x&&/^https:\/\//i.test(x.url||'')&&x.title).map(x=>({...x,category:x.category||'Sonstiges',source:x.source||x.country||'Unbekannt'})).slice(0,200);
+  $('feedStatus').textContent=feedEntries.length+' Hinweise · Letzte Aktualisierung: '+(data.updated||data.updated_at||'unbekannt')+(data.errors?.length?' · '+data.errors.length+' Quellenfehler':'');
   renderFeed();
  }catch(e){$('feedStatus').textContent='Noch keine Feed-Daten verfügbar. Richte zuerst GitHub Pages und den Aktualisierungsdienst ein. ('+e.message+')';}
 }
