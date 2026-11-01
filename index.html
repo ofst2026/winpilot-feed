@@ -184,7 +184,7 @@ function renderFeed(){
 async function loadFeed(){
  $('feedStatus').textContent='Lade öffentliche Gewinnspielhinweise …';
  try{
-  const response=await fetch('./gewinnspiele.json?ts='+Date.now(),{cache:'no-store'});
+  const response=await fetch('./feed.json?ts='+Date.now(),{cache:'no-store'});
   if(!response.ok)throw new Error('HTTP '+response.status);
   const data=await response.json();
   if(!Array.isArray(data.items))throw new Error('Ungültiges Format');
