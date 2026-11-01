@@ -1,0 +1,21 @@
+WINPILOT FAMILY 2.0 – EINRICHTUNG (kostenlos)
+
+1. Alte App nicht löschen! Im bisherigen Browser zuerst Grunddaten sichern.
+2. GitHub-Konto erstellen/anmelden und NEUES ÖFFENTLICHES Repository namens winpilot-family anlegen.
+3. Inhalt dieses Ordners in das Repository hochladen (einschließlich .github/workflows/update.yml).
+   KEINE persönlichen Daten hochladen! In den Dateien dieses Pakets sind keine Profile enthalten.
+4. Repository → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+5. Repository → Actions → Gewinnspiele aktualisieren → Run workflow einmal manuell starten.
+6. Anschließend GitHub-Pages-Adresse öffnen: https://DEIN-NAME.github.io/winpilot-family/
+7. Danach aktualisiert GitHub Actions die öffentliche RSS-Liste ungefähr zweimal täglich.
+   GitHub kann zeitgesteuerte Jobs verzögern oder deaktivieren; bei Fehlern Actions prüfen.
+
+WICHTIG: Profile werden im Browser lokal gespeichert und NICHT in GitHub veröffentlicht.
+Die neue Internetadresse hat einen anderen Browserspeicher als die alte lokale HTML-Datei.
+Daher Grunddaten auf der neuen Adresse erneut eintragen oder separat sicher übertragen.
+Öffentliche GitHub-Repositories und GitHub Pages sind für jeden einsehbar.
+
+RSS-Quelle: Supergewinne.de (öffentlich gelisteter RSS-Feed).
+Die Treffer sind Hinweise, keine überprüften Angebote. Teilnahmeberechtigung, Kostenfreiheit,
+Altersgrenzen, Länder und Veranstalterbedingungen selbst prüfen. Es erfolgt keine Teilnahme.
+Nur kostenlose Gewinnspiele ohne Einsatz verwenden. RSS-Quelle kann ausfallen oder sich ändern.
