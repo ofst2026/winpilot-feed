@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 18:19 UTC",
-  "updated_at": "2026-11-01 18:19 UTC",
+  "updated": "2026-11-01 18:23 UTC",
+  "updated_at": "2026-11-01 18:23 UTC",
   "items": [
     {
       "title": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
@@ -10,7 +10,7 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Naturschutz.ch",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -18,7 +18,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Wir verlosen How to rob a Bank Kinogutscheine - Beyond Pixels",
@@ -28,7 +29,7 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Beyond Pixels",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -36,7 +37,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel mit The Wolf Among Us Remastered - aber nur heute - XboxDynasty",
@@ -46,7 +48,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "XboxDynasty",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -54,7 +56,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "THE LOFT GEWINNSPIEL - ENERGY ÖSTERREICH",
@@ -64,7 +67,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "ENERGY ÖSTERREICH",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -72,7 +75,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "TVM | Vignette | Gewinnspiel 2027 - tv-media.at",
@@ -82,7 +86,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "tv-media.at",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -90,7 +94,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "WhatsApp-Gewinnspiel: inside digital Treasure Drop läuft dieses Wochenende wieder - inside digital",
@@ -100,7 +105,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "inside digital",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -108,7 +113,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Mitmachen und gewinnen: Konzertkarten und mehr für Sie! - BR Klassik",
@@ -118,7 +124,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "BR Klassik",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -126,7 +132,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Verlosung: Königsbrunn wird zum „Kapp der guten Hoffnung“ (14.11.) - Augsburger Allgemeine",
@@ -136,7 +143,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Augsburger Allgemeine",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -144,7 +151,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Jetzt mitmachen und eine schöne Nordmanntanne gewinnen! - MeinBezirk.at",
@@ -154,7 +162,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "MeinBezirk.at",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -162,7 +170,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: 6×2 Tickets für die BLICKFANG Messe Wien - Falstaff",
@@ -172,7 +181,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "Falstaff",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -180,7 +189,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Verlosung: Tickets für Heimspiele des SC DHfK Leipzig gewinnen - LVZ - Leipziger Volkszeitung",
@@ -190,7 +200,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "LVZ - Leipziger Volkszeitung",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -198,7 +208,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: The Hunger Games - Exklusives Fanpaket - myFanbase",
@@ -208,7 +219,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "myFanbase",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -216,7 +227,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Eventtipp mit Gewinnspiel: Halloween im LEGOLAND® Deutschland - Wir verlosen Ausflüge - Presse Augsburg",
@@ -226,7 +238,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Presse Augsburg",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -234,7 +246,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "🎁 GEWINNSPIEL: 100 x 2 Tickets für das Design Depot 2026 zu gewinnen! - News.at",
@@ -244,7 +257,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "News.at",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -252,7 +265,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Rockhouse Konzert-Highlights im November 2026 - oeticket.com",
@@ -262,7 +276,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "oeticket.com",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -270,7 +284,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Jetzt mitmachen und Tickets für Dirk Stermann gewinnen! - MeinBezirk.at",
@@ -280,7 +295,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -288,7 +303,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Mitmachen und gewinnen: Wie gut kennen Sie das Ostseebad Boltenhagen? - Ostsee Zeitung",
@@ -298,7 +314,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Ostsee Zeitung",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -306,7 +322,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Wir verlosen 2×2 Kinogutscheine für GODZILLA MINUS ZERO – Ab 05.11. NUR im Kino! - DailyGame.at",
@@ -316,7 +333,7 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "DailyGame.at",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -324,7 +341,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel zur Arik-Brauer-Preisverleihung - Mena-Watch",
@@ -334,7 +352,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Mena-Watch",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -342,7 +360,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Heftgewinnspiele - Freundin",
@@ -352,7 +371,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Freundin",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -360,7 +379,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiele Heft 24/2026 - Freundin",
@@ -370,7 +390,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Freundin",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -378,7 +398,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Abschiedsflug der Boeing 767: Teure Tickets, jetzt Gewinnspiel - oe24",
@@ -388,7 +409,7 @@
       "deadline": "",
       "category": "Reisen",
       "source": "oe24",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -396,7 +417,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Ozean von Katharina Höftmann - kulturnews.de",
@@ -406,7 +428,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "kulturnews.de",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -414,7 +436,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "J Gewinnspiel - Hanna & Harald im KKThun erleben – Jetzt Tickets gewinnen - Plattform J",
@@ -424,7 +447,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "Plattform J",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -432,7 +455,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Riedenweinpräsentation 2026 große Weine aus den besten Rieden der Steiermark - Falstaff",
@@ -442,7 +466,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Falstaff",
-      "description": "Ungeprüfter Hinweis: Teilnahmebedingungen nicht vollständig nachgewiesen.",
+      "description": "Ungeprüfter Hinweis: Nur Such- oder Plattformlink statt Veranstalterseite",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -450,7 +474,8 @@
         "free": false,
         "country": false,
         "entry": false
-      }
+      },
+      "verification_reason": "Nur Such- oder Plattformlink statt Veranstalterseite"
     }
   ],
   "errors": []
