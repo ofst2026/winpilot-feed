@@ -1,64 +1,7 @@
 {
-  "updated": "2026-11-01 20:02 UTC",
-  "updated_at": "2026-11-01 20:02 UTC",
+  "updated": "2026-11-01 20:05 UTC",
+  "updated_at": "2026-11-01 20:05 UTC",
   "items": [
-    {
-      "title": "Gewinnspiel beim Veranstalter",
-      "url": "https://energy.at/winzone/the-loft-gewinnspiel-11/",
-      "country": "Österreich",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.energy.at",
-      "description": "Ungeprüfter Hinweis: Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "Gewinnspiel beim Veranstalter",
-      "url": "https://oe3.orf.at/mitmachen/",
-      "country": "Österreich",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "oe3.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "mitmachen-und-gewinnen",
-      "url": "https://fm4.orf.at/sammlung/mitmachen-und-gewinnen100/mitmachen-und-gewinnen",
-      "country": "Österreich",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "fm4.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": true,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
     {
       "title": "bonobo-verlosung-100",
       "url": "https://fm4.orf.at/story/bonobo-verlosung-100",
@@ -79,13 +22,13 @@
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
-      "title": "SWR3 Newsletter - Newsletter holen und mit etwas Glück einen SWR3 Elch gewinnen!",
-      "url": "https://www.swr3.de/newsletter/index.html",
+      "title": "auto-krise--gewinneinbruch-bei-audi.html",
+      "url": "https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/auto-krise--gewinneinbruch-bei-audi.html",
       "country": "Deutschland",
       "published": "2026-11-01",
       "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.swr3.de",
+      "category": "Auto",
+      "source": "www.radioeins.de",
       "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "verified": false,
       "verification": {
@@ -98,23 +41,23 @@
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
-      "title": "gewinnspiel-datenschutz",
-      "url": "https://www.radio7.de/gewinnspiel-datenschutz",
+      "title": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUThsVHdRZlJMWmhmMEdsdkRiaG5RZUxhdTJOR3J6bWstaG9ueF8wa2FvVWQyV2JmVlJteV9xZngtaUZiUlZVZy1RWmxGWlNmbGo5eUNFU1lCYW5FT0ZFVFFyMlF1VUlndVMwV1dlamZZYzFqYzdTaHVEZXFyc0dIaDBJdVLSAYQBQVVfeXFMUFE4bFR3UWZSTFpoZjBHbHZEYmhuUWVMYXUyTkdyem1rLWhvbnhfMGthb1VkMldiZlZSbXlfcWZ4LWlGYlJWVWctUVpsRlpTZmxqOXlDRVNZQmFuRU9GRVRRcjJRdVVJZ3VTMFdXZWpmWWMxamM3U2h1RGVxcnNHSGgwSXVS?oc=5",
       "country": "Deutschland",
       "published": "2026-11-01",
       "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.radio7.de",
-      "description": "Ungeprüfter Hinweis: Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "category": "Gutscheine",
+      "source": "Naturschutz.ch",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
-        "direct_link": true,
+        "direct_link": false,
         "deadline": false,
         "free": false,
         "country": false,
         "entry": false
       },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
     },
     {
       "title": "Gewinnspiel: Wir verlosen How to rob a Bank Kinogutscheine - Beyond Pixels",
@@ -124,6 +67,25 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Beyond Pixels",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Gewinnspiel mit The Wolf Among Us Remastered - aber nur heute - XboxDynasty",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXNJLUdsSWZTQi04RkNkYlM3SjB6S0hHWWV3a0hNUUhWMnRXcHNBaldfNTc1UTFoX25takF3QTM5ZDdJSVN5SnF3VGFhbzdvbEUwN05RY2c2TG5ldTU5MXNmdkF1dDJPd0xmd0dGNUR2X3hMSkw1djBHLTkzZUVRc1lRM1hGd2ZmTVJpNUNDaFY5MXd6cHZpcnZORWVqZ09Ib2dsZ1VSRkNrNmZfdGEwVGxfOGlwMERucjRz?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-31",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "XboxDynasty",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -212,6 +174,25 @@
       "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
     },
     {
+      "title": "Verlosung: Königsbrunn wird zum „Kapp der guten Hoffnung“ (14.11.) - Augsburger Allgemeine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjF5X2FnMEN4TXZXZlM0azBfTWh1ZERmdWhsV2dGQkl2ZXktT1NCSnRYdU1tNi1BODFVdDBPVk9UX3dTT3hDUTJvZktOOVgxQ3BnQmNxTmduXzBMbmlueHNXWndTV1pVRFhEa1RWeVdlYUV6MkRvbWNjUHFtbTF2MFBqRllJY25tWEI3dk9MVEU4TzBHM2hhbGdvOWloOE1kd1ZobE5jVTNYY0ZsQ29udklTSzFFbHRHeENFOWFJUmQ?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-30",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "Augsburger Allgemeine",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
       "title": "Gewinnspiel: Jetzt mitmachen und eine schöne Nordmanntanne gewinnen! - MeinBezirk.at",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEY3eExtZEUwR1V4QmJneGVkVEg3TGU3NUtaZHRZSzA5SDUycnVSVEkzZ2dURl9kbktUSm9MOE5lcmRwbXRQbjh4MlNqNDZlQ3VmTWhIZ0JPTDltRlpWdm4ySWVJQVRyS0RfOUdMNDI3R2hWazdIWVRmV2Z5Qnp3MDBqVGxreTlnTW5ma2ZsdThEZTZ1UjNTaDl0Y09XNVRxemdqc2tEdktFUWMzWm9UYTNkYw?oc=5",
       "country": "Deutschland",
@@ -238,25 +219,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "Falstaff",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "AZ-Verlosung: Tickets für Semino Rossi in Wolfsburg - WAZ-ONLINE.de",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDM3eHlpcnFyMXhicmxuZ3RFeXZTY3FmdnZpM0NyYmgxVlFuOHo2dGxHS2lEODRpbjB4WW1ybVJoQTluWGswWC1sVmxfUncwUEpxdG5VaWdDMTk4Y2JjaEJ1R2JMa00xTXhiaVFMYUt6TnJrSVJ2Q2JZNzRhdFdsRC1nZlVPTlE1MEcwQ0F0RTgyaXM3bnZGa1g5dHlhRG1YWlo5SWJvM21zUWdBaWZ2TzNJMV9TYkczMzdjajhWSWx0aFZLTHfSAeIBQVVfeXFMT1o4SkczRUxuams4Qk1aSTZMZW9HdVVIZm91NlZ0ZUttaFR1YzVFNFpXNHJnRWFHTE5iYzNJZFhIQU9YWktQMU01VXRZRks5ZDJzdWJFdHJRMUd4WTFfeHJrdEVobHN5LTIzVmROTXBhVTgxbG9EeGFybUxVRG9RRGoyb0RpQ3Y1bURnaTI4OF9ROXlJaE5mcmpha09vR09pWUlQYnFhYk5wbC1OSFpSVnJ3VXpJTW9LN0Fib3NFcGJlZjdZeV8xOUhMdENWUy11c1FuSlNlQkh3X2prUVlzNFdPZw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-29",
-      "deadline": "",
-      "category": "Sachpreise",
-      "source": "WAZ-ONLINE.de",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -383,25 +345,6 @@
       "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
     },
     {
-      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-28",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "SUPERillu",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
       "title": "Mitmachen und gewinnen: Wie gut kennen Sie das Ostseebad Boltenhagen? - Ostsee Zeitung",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkJ3WmxvdGNlWkxvcjFDWVFYVVNlZEhCS2FFSTV5R1AzMk5iSVhJUy00V0FZcVRLNUJWS3NsSTQ0d0s1V0dTM0dEY0wwWFllNlZ2OFEyWXlsVVJRTmtjMWNqSFk0RnJGVmRqb1pNVnpwcjl6N0lIbTlEdXo2aHN2d3VSTFlsTVBqYXBQLTV0S25nUEJMV1g1YmFNSENxN1ZoaGgxVUpyaWpHX2U3ckFTS01ZVE1wbHlSZkJETHNDUEpDcjRnQmdkMzlpUW4wVGN3WTc0d2tkVTlLX09WSVdXS2xKY3hWNTDSAYMCQVVfeXFMUE81cXA2U0xUT05DYUk0RTdMZHA4bXVKaDlIaUVfbklpNDhyZ3prSUpIZXZ2bnExR0ZTTG1EbThiYUhEWDBrWkdtcWJxU2YzZ2luN1FMbDIwUlNSd3YtcnlsN2RRZVY1M2xyYVNiNmNsSjZaa1l1VktpTzJQNWd5Q0p0UlJ4QVFTbVBhNFk0c2RMMGhCME5oblVHMEU0XzFqZGMzTXFfdUVmNUtsbkItSEtzUlJBeFRXVmV6Nkc1azFJY2FoVWtnMjExSjhMbTJIVXhaOFVCaGFOX2VUZlRTSjJ1VEtCdnhIWWhtS3Ricm5JZjdIUTZ5U0Q2M0xaYjNyTEt4aw?oc=5",
       "country": "Deutschland",
@@ -504,25 +447,6 @@
       "deadline": "",
       "category": "Reisen",
       "source": "oe24",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Eishockey-Gewinnspiel: Adler Mannheim gegen Grizzlys Wolfsburg - Wochenblatt Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzV1YThqVWExZ1ltTWJRV1RfNU5DRDU0cUJmZHZzaUhIQ0R4QkZlZW44eWtNWXNMVGR6NTBCLUhEQTdTVkVUcTdNX2p1VGtkOC1uNklJamcxY0Z0SG5jeU5fekxCejNWTF8ya3VQOHU3YlFERGpCWTY2OEp3dS1tZjFReVN2ZHM0VEdseWZ1UzhsdGhSOWlweEZBUG5MUDZFaGNMUE05QTF1cldKa0w2b0JGRERUME1NUVFkRWZsVQ?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-26",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Wochenblatt Reporter",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
