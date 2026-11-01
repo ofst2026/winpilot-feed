@@ -120,11 +120,11 @@ footer{font-size:12px;color:#64748b;margin:17px 2px}
 </div></section>
 <section class="panel" style="margin-top:15px" id="feedPanel">
 <h2>✨ Automatisch gefundene Gewinnspiele</h2>
-<p class="muted">Öffentliche RSS-Hinweise, noch nicht auf Teilnahmeberechtigung geprüft. Kein Kauf und keine Einsätze; prüfe die Regeln beim Veranstalter.</p>
+<p class="muted">Gefilterte Pressehinweise – keine bestätigten aktiven Gewinnspiele. Teilnahmelinks und Bedingungen selbst prüfen. Kein Kauf und keine Einsätze; prüfe die Regeln beim Veranstalter.</p>
 <div class="toolbar"><button type="button" id="refreshFeed">Liste aktualisieren</button><select id="feedCategory"><option value="">Alle Kategorien</option><option>Reisen</option><option>Technik</option><option>Auto</option><option>Gutscheine</option><option>Geld</option><option>Sachpreise</option></select></div>
 <div id="feedStatus" class="muted" role="status">Noch keine Daten geladen.</div><div id="feedList" class="list" style="margin-top:12px"></div>
 </section>
-<footer>WinPilot Family 2.0 · Daten bleiben lokal in diesem Browser · Automatische RSS-Suche über kostenlosen GitHub-Dienst · Keine automatische Teilnahme</footer>
+<footer>WinPilot Family 2.1 · Daten bleiben lokal in diesem Browser · Automatische RSS-Suche über kostenlosen GitHub-Dienst · Keine automatische Teilnahme</footer>
 </div>
 <script>
 const KEY='winpilot_family_v1';
@@ -178,7 +178,7 @@ function renderFeed(){
  const selected=feedEntries.map((x,i)=>({...x,feedIndex:i})).filter(x=>!cat||x.category===cat);
  $('feedList').innerHTML=selected.length?selected.map((x,i)=>{
  const already=items.some(v=>v.url===x.url);
- return `<article class="item"><h3>${esc(x.title)}</h3><div class="meta"><span class="tag">${esc(x.category)}</span><span class="tag">Quelle: ${esc(x.source)}</span>${x.deadline?`<span class="tag">Bis ${esc(x.deadline)}</span>`:''}</div><div class="muted">${esc(x.description||'')} · Länderberechtigung ungeprüft</div><div class="item-actions"><button class="secondary" data-feed-open="${x.feedIndex}">Hinweis öffnen ↗</button><button data-feed-add="${x.feedIndex}" ${already?'disabled':''}>${already?'Schon gespeichert':'In meine Liste übernehmen'}</button></div></article>`
+ return `<article class="item"><h3>${esc(x.title)}</h3><div class="meta"><span class="tag">${esc(x.category)}</span><span class="tag">Quelle: ${esc(x.source)}</span>${x.deadline?`<span class="tag">Bis ${esc(x.deadline)}</span>`:''}</div><div class="muted">${esc(x.description||'')} · Länderberechtigung ungeprüft</div><div class="item-actions"><button class="secondary" data-feed-open="${x.feedIndex}">Quelle prüfen ↗</button><button data-feed-add="${x.feedIndex}" ${already?'disabled':''}>${already?'Schon gespeichert':'In meine Liste übernehmen'}</button></div></article>`
  }).join(''):'<div class="empty">Keine passenden Treffer. Prüfe die Feed-Aktualisierung.</div>';
 }
 async function loadFeed(){
@@ -188,8 +188,8 @@ async function loadFeed(){
   if(!response.ok)throw new Error('HTTP '+response.status);
   const data=await response.json();
   if(!Array.isArray(data.items))throw new Error('Ungültiges Format');
-  feedEntries=data.items.filter(x=>x&&/^https:\/\//i.test(x.url||'')&&x.title).slice(0,200).map(x=>({...x,category:x.category||'Sonstiges',source:x.source||'Google News',description:x.description||('Land: '+(x.country||'ungeprüft'))}));
-  $('feedStatus').textContent=feedEntries.length+' Hinweise · Letzte Aktualisierung: '+(data.updated_at||data.updated||'unbekannt')+(data.errors?.length?' · '+data.errors.length+' Quellenfehler':'');
+  feedEntries=data.items.filter(x=>x&&/^https:\/\//i.test(x.url||'')&&x.title).slice(0,200).map(x=>({...x,category:x.category||'Sonstiges',source:x.source||x.country||'Google News',description:x.description||('Pressehinweis · Land: '+(x.country||'ungeprüft'))}));
+  $('feedStatus').textContent=feedEntries.length+' Hinweise · Letzte Aktualisierung: '+(data.updated||data.updated_at||'unbekannt')+(data.errors?.length?' · '+data.errors.length+' Quellenfehler':'');
   renderFeed();
  }catch(e){$('feedStatus').textContent='Noch keine Feed-Daten verfügbar. Richte zuerst GitHub Pages und den Aktualisierungsdienst ein. ('+e.message+')';}
 }
