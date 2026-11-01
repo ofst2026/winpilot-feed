@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-01 20:05 UTC",
-  "updated_at": "2026-11-01 20:05 UTC",
+  "updated": "2026-11-01 20:08 UTC",
+  "updated_at": "2026-11-01 20:08 UTC",
   "items": [
+    {
+      "title": "3047447",
+      "url": "https://oe3.orf.at/mitmachen/stories/3047447/",
+      "country": "Österreich",
+      "published": "2026-11-01",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "oe3.orf.at",
+      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
+    },
     {
       "title": "bonobo-verlosung-100",
       "url": "https://fm4.orf.at/story/bonobo-verlosung-100",
@@ -20,25 +39,6 @@
         "entry": false
       },
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
-    },
-    {
-      "title": "auto-krise--gewinneinbruch-bei-audi.html",
-      "url": "https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/auto-krise--gewinneinbruch-bei-audi.html",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Auto",
-      "source": "www.radioeins.de",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
       "title": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
@@ -67,25 +67,6 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Beyond Pixels",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Gewinnspiel mit The Wolf Among Us Remastered - aber nur heute - XboxDynasty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXNJLUdsSWZTQi04RkNkYlM3SjB6S0hHWWV3a0hNUUhWMnRXcHNBaldfNTc1UTFoX25takF3QTM5ZDdJSVN5SnF3VGFhbzdvbEUwN05RY2c2TG5ldTU5MXNmdkF1dDJPd0xmd0dGNUR2X3hMSkw1djBHLTkzZUVRc1lRM1hGd2ZmTVJpNUNDaFY5MXd6cHZpcnZORWVqZ09Ib2dsZ1VSRkNrNmZfdGEwVGxfOGlwMERucjRz?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-31",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "XboxDynasty",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -333,6 +314,25 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-28",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "SUPERillu",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
