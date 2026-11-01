@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#172554">
+<link rel="manifest" href="manifest.webmanifest">
+<title>WinPilot Family</title>
+<style>
+:root{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#172033;background:#f4f6fb}
+*{box-sizing:border-box}body{margin:0}.wrap{max-width:1100px;margin:auto;padding:20px}
+header{background:#172554;color:white;padding:23px;border-radius:20px;margin-bottom:16px}
+h1{margin:0 0 5px;font-size:29px}header p{margin:0;color:#dbeafe}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0}
+.stat,.panel,.item{background:white;border:1px solid #e3e8f2;border-radius:15px;padding:15px}
+.stat strong{display:block;font-size:25px}.muted{color:#64748b;font-size:13px}
+.toolbar{display:flex;gap:9px;flex-wrap:wrap;margin:13px 0}
+input,select,button{font:inherit;border:1px solid #cbd5e1;border-radius:10px;padding:10px;background:white;color:#172033}
+input,select{min-width:0}button{cursor:pointer;background:#1d4ed8;color:white;border-color:#1d4ed8;font-weight:600}
+button.secondary{background:white;color:#1d4ed8}button.danger{background:#fff1f2;color:#be123c;border-color:#fecdd3}
+.toolbar input{flex:1;min-width:170px}.layout{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(280px,1fr);gap:15px}
+h2{font-size:18px;margin:0 0 12px}.list{display:grid;gap:9px}
+.item h3{margin:0 0 6px;font-size:16px}.meta{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+.tag{font-size:12px;padding:4px 8px;border-radius:20px;background:#eff6ff;color:#1d4ed8}
+.tag.green{background:#ecfdf5;color:#047857}.tag.orange{background:#fff7ed;color:#c2410c}
+.item-actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.item-actions button{font-size:12px;padding:7px 9px}
+form{display:grid;gap:8px}form label{font-size:13px;color:#475569}form input,form select{width:100%;margin-top:4px}
+.searchlinks{display:grid;gap:8px}.searchlinks a{color:#1d4ed8;text-decoration:none;padding:9px;background:#eff6ff;border-radius:9px}
+.notice{background:#fffbeb;border:1px solid #fde68a;padding:11px;border-radius:12px;font-size:13px;color:#854d0e;margin-top:12px}
+.empty{padding:22px;text-align:center;color:#64748b;border:1px dashed #cbd5e1;border-radius:13px}
+.profile-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.tabs button.active{background:#172554;color:white}
+footer{font-size:12px;color:#64748b;margin:17px 2px}
+@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr)}.layout{grid-template-columns:1fr}.wrap{padding:12px}header{padding:19px}.profile-grid{grid-template-columns:1fr}}
+.discovery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.discovery a{padding:12px;border-radius:12px;background:#eff6ff;color:#1d4ed8;text-decoration:none}.discovery small{display:block;color:#475569}@media(max-width:600px){.discovery{grid-template-columns:1fr}}</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>🎁 WinPilot Family</h1><p>Private Gewinnspiel-Verwaltung für Stefan & Kathrin · Österreich und Deutschland</p></header>
+
+<div class="grid">
+ <div class="stat"><strong id="total">0</strong><span class="muted">Gewinnspiele</span></div>
+ <div class="stat"><strong id="open">0</strong><span class="muted">Noch offen</span></div>
+ <div class="stat"><strong id="entered">0</strong><span class="muted">Teilnahmen erfasst</span></div>
+ <div class="stat"><strong id="ending">0</strong><span class="muted">Endet in 7 Tagen</span></div>
+</div>
+
+<section class="panel">
+ <h2>Ansicht wählen</h2>
+ <div class="tabs" id="tabs">
+  <button class="active" data-view="all">Gemeinsam</button>
+  <button class="secondary" data-view="Stefan">Stefan</button>
+  <button class="secondary" data-view="Kathrin">Kathrin</button>
+ </div>
+ <div class="muted">„Gemeinsam“ zeigt alle Gewinnspiele und beide persönlichen Teilnahmestände. In den Einzelansichten siehst du nur die jeweilige Person.</div>
+</section>
+
+<section class="panel" style="margin-top:15px;margin-bottom:15px">
+ <h2>👤 Grunddaten verwalten</h2>
+ <p class="muted">Die Daten werden nur in diesem Browser gespeichert. Auf gemeinsam genutzten Geräten können andere Personen mit Browserzugriff sie sehen.</p>
+ <div class="tabs" id="profileTabs"><button type="button" class="active" data-profile="Stefan">Stefan</button><button type="button" class="secondary" data-profile="Kathrin">Kathrin</button></div>
+ <form id="profileForm" autocomplete="on">
+  <div class="profile-grid">
+   <label>Vorname<input name="firstName" autocomplete="given-name" required maxlength="80"></label>
+   <label>Nachname<input name="lastName" autocomplete="family-name" required maxlength="80"></label>
+   <label>Geburtsdatum<input name="birthday" type="date" autocomplete="bday"></label>
+   <label>E-Mail<input name="email" type="email" autocomplete="email"></label>
+   <label>Telefonnummer<input name="phone" type="tel" autocomplete="tel"></label>
+   <label>Straße und Hausnummer<input name="street" autocomplete="street-address"></label>
+   <label>Postleitzahl<input name="postal" autocomplete="postal-code"></label>
+   <label>Ort<input name="city" autocomplete="address-level2"></label>
+   <label>Land<select name="country" autocomplete="country"><option value="DE">Deutschland</option><option value="AT">Österreich</option></select></label>
+  </div>
+  <button type="submit">Grunddaten speichern</button>
+  <span id="profileMessage" class="muted" role="status" aria-live="polite"></span>
+ </form>
+</section>
+<div class="toolbar">
+ <input id="search" placeholder="Gewinnspiel suchen …" aria-label="Suchen">
+ <select id="country"><option value="">Alle Länder</option><option>Österreich</option><option>Deutschland</option></select>
+ <select id="status"><option value="">Alle Status</option><option value="open">Offen</option><option value="entered">Teilgenommen</option><option value="won">Gewonnen</option><option value="closed">Abgelaufen</option></select>
+</div>
+
+<div class="layout">
+ <section class="panel">
+  <h2>Gewinnspiele & Teilnahmen</h2>
+  <div id="list" class="list"><div class="empty">Noch keine Gewinnspiele gespeichert. Füge rechts das erste hinzu.</div></div>
+ </section>
+ <aside class="panel">
+  <h2>Gewinnspiel hinzufügen</h2>
+  <form id="addForm">
+   <label>Titel<input name="title" required maxlength="100" placeholder="z. B. Reise-Gewinnspiel"></label>
+   <label>Land<select name="country"><option>Österreich</option><option>Deutschland</option></select></label>
+   <label>Kategorie<select name="category"><option>Sonstiges</option><option>Geld</option><option>Technik</option><option>Reisen</option><option>Auto</option><option>Gutscheine</option><option>Wohnen</option><option>Sachpreise</option></select></label>
+   <label>Teilnahmeschluss<input name="deadline" type="date"></label>
+   <label>Link zum Veranstalter<input name="url" type="url" placeholder="https://…"></label>
+   <label>Notiz<input name="notes" maxlength="180" placeholder="z. B. kostenlos, Teilnahme nur für AT"></label>
+   <button type="submit">Gewinnspiel speichern</button>
+  </form>
+  <div class="notice"><b>Teilnahme-Regeln:</b> Für jede Person wird separat dokumentiert, ob sie teilgenommen hat. Vor einer zweiten Teilnahme unbedingt prüfen, ob der Veranstalter Mehrfachteilnahmen pro Haushalt erlaubt. Keine falschen Angaben, keine Umgehung von Alters- oder Teilnahmebedingungen.</div>
+</aside>
+</div>
+
+<section class="panel" style="margin-top:15px">
+ <h2>Neue Gewinnspiele finden</h2>
+ <p class="muted">Suchlinks öffnen externe Web-Suchen. Bitte Teilnahmebedingungen, Altersvoraussetzungen und Länderbeschränkungen direkt beim Veranstalter prüfen.</p>
+ <div class="searchlinks">
+  <a target="_blank" rel="noopener" href="https://www.google.com/search?q=kostenlose+Gewinnspiele+%C3%96sterreich+aktuell">🇦🇹 Kostenlose Gewinnspiele Österreich</a>
+  <a target="_blank" rel="noopener" href="https://www.google.com/search?q=kostenlose+Gewinnspiele+Deutschland+aktuell">🇩🇪 Kostenlose Gewinnspiele Deutschland</a>
+  <a target="_blank" rel="noopener" href="https://www.google.com/search?q=Gewinnspiel+Technik+Reise+Gutschein+kostenlos">Technik, Reisen und Gutscheine</a>
+ </div>
+</section>
+<section class="panel" style="margin-top:15px">
+<h2>🔎 Gewinnspiele gezielt suchen</h2>
+<p class="muted">Land und Kategorie wählen, anschließend eine aktuelle Websuche öffnen. Treffer bitte prüfen und über „Gewinnspiel hinzufügen“ speichern. Noch keine automatische Suche.</p>
+<div class="toolbar">
+<select id="discoverCountry"><option>Österreich</option><option>Deutschland</option><option value="Österreich Deutschland">Beide Länder</option></select>
+<select id="discoverCategory"><option value="">Alle Kategorien</option><option>Reisen</option><option>Geld</option><option>Technik</option><option>Auto</option><option>Gutscheine</option><option>Wohnen</option><option>Sachpreise</option></select>
+<button type="button" id="discoverButton">Jetzt suchen ↗</button>
+</div></section>
+<section class="panel" style="margin-top:15px" id="feedPanel">
+<h2>✨ Automatisch gefundene Gewinnspiele</h2>
+<p class="muted">Öffentliche RSS-Hinweise, noch nicht auf Teilnahmeberechtigung geprüft. Kein Kauf und keine Einsätze; prüfe die Regeln beim Veranstalter.</p>
+<div class="toolbar"><button type="button" id="refreshFeed">Liste aktualisieren</button><select id="feedCategory"><option value="">Alle Kategorien</option><option>Reisen</option><option>Technik</option><option>Auto</option><option>Gutscheine</option><option>Geld</option><option>Sachpreise</option></select></div>
+<div id="feedStatus" class="muted" role="status">Noch keine Daten geladen.</div><div id="feedList" class="list" style="margin-top:12px"></div>
+</section>
+<footer>WinPilot Family 2.0 · Daten bleiben lokal in diesem Browser · Automatische RSS-Suche über kostenlosen GitHub-Dienst · Keine automatische Teilnahme</footer>
+</div>
+<script>
+const KEY='winpilot_family_v1';
+const PROFILE_KEY='winpilot_family_profiles_v1';
+const PROFILE_FIELDS=['firstName','lastName','birthday','email','phone','street','postal','city','country'];
+let activeProfile='Stefan';let profiles={Stefan:{},Kathrin:{}};
+try{const stored=JSON.parse(localStorage.getItem(PROFILE_KEY)||'{}');for(const p of ['Stefan','Kathrin'])if(stored[p]&&typeof stored[p]==='object')profiles[p]=stored[p]}catch(e){}
+function loadProfile(){const form=document.getElementById('profileForm');for(const key of PROFILE_FIELDS)form.elements[key].value=profiles[activeProfile][key]||(key==='country'?'DE':'');document.getElementById('profileMessage').textContent='';}
+document.getElementById('profileTabs').addEventListener('click',e=>{const b=e.target.closest('button[data-profile]');if(!b)return;activeProfile=b.dataset.profile;document.querySelectorAll('#profileTabs button').forEach(x=>{x.classList.toggle('active',x===b);x.classList.toggle('secondary',x!==b)});loadProfile()});
+document.getElementById('profileForm').addEventListener('submit',e=>{e.preventDefault();const form=e.currentTarget;const next={};for(const key of PROFILE_FIELDS)next[key]=form.elements[key].value.trim();profiles[activeProfile]=next;try{localStorage.setItem(PROFILE_KEY,JSON.stringify(profiles));document.getElementById('profileMessage').textContent='Grunddaten für '+activeProfile+' gespeichert.'}catch(err){document.getElementById('profileMessage').textContent='Speichern fehlgeschlagen. Bitte Browser-Speicher prüfen.'}});
+loadProfile();
+let items=[];let view='all';
+try{items=JSON.parse(localStorage.getItem(KEY)||'[]')}catch(e){items=[]}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function save(){localStorage.setItem(KEY,JSON.stringify(items));render()}
+function statusFor(x,p){let s=x.people?.[p]||'open';if(s==='open'&&x.deadline&&x.deadline<new Date().toISOString().slice(0,10))return 'closed';return s}
+function render(){
+ let allEntries=items.reduce((n,x)=>n+['Stefan','Kathrin'].filter(p=>['entered','won'].includes(x.people?.[p])).length,0);
+ let opens=items.filter(x=>['Stefan','Kathrin'].some(p=>statusFor(x,p)==='open')).length;
+ let ending=items.filter(x=>x.deadline&&['Stefan','Kathrin'].some(p=>statusFor(x,p)==='open')&&((new Date(x.deadline+'T23:59:59')-new Date())/86400000)>=0&&((new Date(x.deadline+'T23:59:59')-new Date())/86400000)<=7).length;
+ $('total').textContent=items.length;$('open').textContent=opens;$('entered').textContent=allEntries;$('ending').textContent=ending;
+ let q=$('search').value.toLowerCase(),country=$('country').value,filter=$('status').value;
+ let filtered=items.filter(x=>(!q||(x.title+' '+x.category+' '+x.notes).toLowerCase().includes(q))&&(!country||x.country===country));
+ if(view!=='all')filtered=filtered.filter(x=>!filter||statusFor(x,view)===filter);
+ else if(filter)filtered=filtered.filter(x=>['Stefan','Kathrin'].some(p=>statusFor(x,p)===filter));
+ $('list').innerHTML=filtered.length?filtered.map(x=>{
+  const people=['Stefan','Kathrin'].filter(p=>view==='all'||view===p);
+  const peopleHtml=people.map(p=>{let s=statusFor(x,p),label={open:'Offen',entered:'Teilgenommen',won:'Gewonnen',closed:'Abgelaufen'}[s];return `<div class="meta"><b>${p}:</b><span class="tag ${s==='entered'||s==='won'?'green':s==='closed'?'orange':''}">${label}</span><span class="item-actions"><button class="secondary" onclick="setPerson('${x.id}','${p}','entered')">Teilgenommen</button><button class="secondary" onclick="setPerson('${x.id}','${p}','won')">Gewonnen</button><button class="secondary" onclick="setPerson('${x.id}','${p}','open')">Zurücksetzen</button></span></div>`}).join('');
+  return `<article class="item"><h3>${esc(x.title)}</h3><div class="meta"><span class="tag">${esc(x.country)}</span><span class="tag">${esc(x.category)}</span>${x.deadline?`<span class="tag">Bis ${esc(x.deadline)}</span>`:''}</div>${x.notes?`<div class="muted">${esc(x.notes)}</div>`:''}${peopleHtml}<div class="item-actions">${x.url?`<button class="secondary" onclick="openLink('${encodeURIComponent(x.url)}')">Zum Veranstalter ↗</button>`:''}<button class="danger" onclick="removeItem('${x.id}')">Löschen</button></div></article>`
+ }).join(''):'<div class="empty">Keine passenden Einträge. Gewinnspiel hinzufügen oder Filter ändern.</div>';
+}
+window.openLink=encoded=>{try{let u=decodeURIComponent(encoded);if(/^https?:\/\//i.test(u))window.open(u,'_blank','noopener')}catch(e){}};
+window.setPerson=(id,p,status)=>{let x=items.find(a=>a.id===id);if(x){x.people=x.people||{};x.people[p]=status;save()}};
+window.removeItem=id=>{if(confirm('Dieses Gewinnspiel wirklich löschen?')){items=items.filter(x=>x.id!==id);save()}};
+$('addForm').addEventListener('submit',e=>{e.preventDefault();let f=new FormData(e.target),url=String(f.get('url')||'').trim();if(url&&!/^https?:\/\//i.test(url)){alert('Bitte einen vollständigen Link mit https:// eingeben.');return}
+ items.unshift({id:crypto.randomUUID?crypto.randomUUID():String(Date.now()),title:f.get('title').trim(),country:f.get('country'),category:f.get('category'),deadline:f.get('deadline'),url,notes:f.get('notes').trim(),people:{Stefan:'open',Kathrin:'open'}});e.target.reset();save()});
+$('tabs').addEventListener('click',e=>{let b=e.target.closest('button[data-view]');if(!b)return;view=b.dataset.view;document.querySelectorAll('#tabs button').forEach(x=>{x.classList.toggle('active',x===b);x.classList.toggle('secondary',x!==b)});render()});
+['search','country','status'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));
+if('serviceWorker' in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
+$('discoverButton').addEventListener('click',()=>{
+ const q=['kostenlose Gewinnspiele',$('discoverCountry').value,$('discoverCategory').value,'aktuell'].filter(Boolean).join(' ');
+ window.open('https://www.google.com/search?q='+encodeURIComponent(q),'_blank','noopener');
+});
+render();
+
+// GitHub Pages publishes the public feed file next to this app.
+let feedEntries=[];
+function renderFeed(){
+ const cat=$('feedCategory').value;
+ const selected=feedEntries.map((x,i)=>({...x,feedIndex:i})).filter(x=>!cat||x.category===cat);
+ $('feedList').innerHTML=selected.length?selected.map((x,i)=>{
+ const already=items.some(v=>v.url===x.url);
+ return `<article class="item"><h3>${esc(x.title)}</h3><div class="meta"><span class="tag">${esc(x.category)}</span><span class="tag">Quelle: ${esc(x.source)}</span>${x.deadline?`<span class="tag">Bis ${esc(x.deadline)}</span>`:''}</div><div class="muted">${esc(x.description||'')} · Länderberechtigung ungeprüft</div><div class="item-actions"><button class="secondary" data-feed-open="${x.feedIndex}">Hinweis öffnen ↗</button><button data-feed-add="${x.feedIndex}" ${already?'disabled':''}>${already?'Schon gespeichert':'In meine Liste übernehmen'}</button></div></article>`
+ }).join(''):'<div class="empty">Keine passenden Treffer. Prüfe die Feed-Aktualisierung.</div>';
+}
+async function loadFeed(){
+ $('feedStatus').textContent='Lade öffentliche Gewinnspielhinweise …';
+ try{
+  const response=await fetch('./feed.json?ts='+Date.now(),{cache:'no-store'});
+  if(!response.ok)throw new Error('HTTP '+response.status);
+  const data=await response.json();
+  if(!Array.isArray(data.items))throw new Error('Ungültiges Format');
+  feedEntries=data.items.filter(x=>x&&/^https:\/\//i.test(x.url||'')&&x.title).slice(0,200).map(x=>({...x,category:x.category||'Sonstiges',source:x.source||'Google News',description:x.description||('Land: '+(x.country||'ungeprüft'))}));
+  $('feedStatus').textContent=feedEntries.length+' Hinweise · Letzte Aktualisierung: '+(data.updated_at||data.updated||'unbekannt')+(data.errors?.length?' · '+data.errors.length+' Quellenfehler':'');
+  renderFeed();
+ }catch(e){$('feedStatus').textContent='Noch keine Feed-Daten verfügbar. Richte zuerst GitHub Pages und den Aktualisierungsdienst ein. ('+e.message+')';}
+}
+$('refreshFeed').addEventListener('click',loadFeed);
+$('feedCategory').addEventListener('change',renderFeed);
+$('feedList').addEventListener('click',e=>{
+ const open=e.target.closest('[data-feed-open]');const add=e.target.closest('[data-feed-add]');
+ if(open){const x=feedEntries[Number(open.dataset.feedOpen)];if(x)window.open(x.url,'_blank','noopener');}
+ if(add){const x=feedEntries[Number(add.dataset.feedAdd)];if(!x||items.some(v=>v.url===x.url))return;
+ items.unshift({id:crypto.randomUUID?crypto.randomUUID():String(Date.now()),title:x.title.slice(0,100),country:['Österreich','Deutschland'].includes(x.country)?x.country:'Ungeprüft',category:x.category||'Sonstiges',deadline:x.deadline||'',url:x.url,notes:'Aus öffentlichem RSS-Feed. Teilnahmeberechtigung für DE/AT bitte selbst prüfen.',people:{Stefan:'open',Kathrin:'open'}});
+ save();renderFeed();}
+});
+loadFeed();
+
+</script>
+</body></html>
