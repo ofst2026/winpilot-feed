@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 15:24 UTC",
-  "updated_at": "2026-11-02 15:24 UTC",
+  "updated": "2026-11-02 15:28 UTC",
+  "updated_at": "2026-11-02 15:28 UTC",
   "items": [
     {
       "title": "Gewinnen UK-Filmpremiere in London",
@@ -10,30 +10,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "oe3.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "3047447",
-      "url": "https://oe3.orf.at/mitmachen/stories/3047447/",
-      "country": "Österreich",
-      "published": "2026-11-02",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "oe3.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -56,7 +33,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -79,7 +56,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
-      "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -96,7 +73,7 @@
     },
     {
       "title": "Gewinnspiel: GODZILLA MINUS ZERO - Gamers.at",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSUHQtXzZIM2RjWlI5VFFZNjVac2JNN3c0cmdkNmVFaFJGTm9uajFxbDI1T0txaUNmd1BjeGxhN3hISHJmRGRKWTVZQnNkSUcyTi1ZbW1zTlVSb3NHM1U4R05WWlhrUHRC?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SXIta3Rub3FKRGswUjFJYzZLbVZYY1FLRGpyR0o0a1R6RklVMHFUZXBDZGRCTS12UUpPZDRIVTNxVF9ETXBfU3JuMWVGaUJ4YmZiQ082THNNUWstTEJ2LTdnZVJWZm1iY3c?oc=5",
       "country": "Österreich",
       "published": "2026-11-02",
       "deadline": "",
@@ -125,6 +102,29 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Heute",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
+      "title": "Gewinnspiel: Edelrid Hallen-Set in der Bergfreunde-Edition - Lacrux Klettermagazin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3pITGE4b2hrb3puSFpjN1d0UGp0YjhaZTZqejJySGs3RkJGVU8yeGVFWjlNQTY3dXFiVEdIVDdFMmttalhWV0c4UHRwMGZZQ1ZIUG83WGZ6M1ZyTkdIS1VrMm1LVjNnREJNbzFFenhmWk41aGZKdGRUU2Ffa3pDaGV6SDMwZVhzZFNkbGxsTVZWa1FR?oc=5",
+      "country": "Österreich",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "Lacrux Klettermagazin",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
