@@ -1,0 +1,34 @@
+name: WinPilot Live-Diagnose
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Syntax und Funktionstests
+        run: |
+          python -m py_compile fetch_feed.py diagnose_winpilot.py
+          python -m unittest -v test_winpilot
+      - name: Live-Suche ausführen
+        run: python -u fetch_feed.py
+      - name: Qualitätsbericht erstellen
+        if: always()
+        run: |
+          if [ -f feed.json ]; then python diagnose_winpilot.py; fi
+      - name: Diagnose als Artefakt speichern
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: winpilot-live-diagnose
+          path: |
+            winpilot_diagnose.md
+            feed.json
+          if-no-files-found: warn
+          retention-days: 7
