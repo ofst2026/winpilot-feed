@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 15:28 UTC",
-  "updated_at": "2026-11-02 15:28 UTC",
+  "updated": "2026-11-02 15:51 UTC",
+  "updated_at": "2026-11-02 15:51 UTC",
   "items": [
     {
       "title": "Gewinnen UK-Filmpremiere in London",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Gewinnspiel: GODZILLA MINUS ZERO - Gamers.at",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SXIta3Rub3FKRGswUjFJYzZLbVZYY1FLRGpyR0o0a1R6RklVMHFUZXBDZGRCTS12UUpPZDRIVTNxVF9ETXBfU3JuMWVGaUJ4YmZiQ082THNNUWstTEJ2LTdnZVJWZm1iY3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSUHQtXzZIM2RjWlI5VFFZNjVac2JNN3c0cmdkNmVFaFJGTm9uajFxbDI1T0txaUNmd1BjeGxhN3hISHJmRGRKWTVZQnNkSUcyTi1ZbW1zTlVSb3NHM1U4R05WWlhrUHRC?oc=5",
       "country": "Österreich",
       "published": "2026-11-02",
       "deadline": "",
@@ -102,29 +102,6 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Heute",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Gewinnspiel: Edelrid Hallen-Set in der Bergfreunde-Edition - Lacrux Klettermagazin",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3pITGE4b2hrb3puSFpjN1d0UGp0YjhaZTZqejJySGs3RkJGVU8yeGVFWjlNQTY3dXFiVEdIVDdFMmttalhWV0c4UHRwMGZZQ1ZIUG83WGZ6M1ZyTkdIS1VrMm1LVjNnREJNbzFFenhmWk41aGZKdGRUU2Ffa3pDaGV6SDMwZVhzZFNkbGxsTVZWa1FR?oc=5",
-      "country": "Österreich",
-      "published": "2026-11-02",
-      "deadline": "",
-      "category": "Sachpreise",
-      "source": "Lacrux Klettermagazin",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -210,52 +187,6 @@
       "directEntryVerified": false
     },
     {
-      "title": "‘Traumatic’-Verlosung: Blu-rays und Jutebeutel zu gewinnen - Metal Hammer",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnhTQnJHNm1zOTRIZW4wRHJDRnl5WmtyVmFxQ3VvN3VrV3gwS3drcjJya1hwYzl5ektsSnkyZHZCbndIODhKZTVSTS10aFZnSjRNcVVFNUk3c25nR2ZWZFdlUmhCbmFLc05JQ2x5N2VEWUVSQVZKMU4xV0lhdmhnYXJKc0xWWm9LZkhlUWMxSDZhVlRuUUhmZ1ZiV1Y5UQ?oc=5",
-      "country": "Deutschland",
-      "published": "2026-11-02",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Metal Hammer",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Eishockey-Gewinnspiel: Adler Mannheim gegen EHC Red Bull München - Wochenblatt Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMm5VZ3JTTXRhWlRvbXJPcWVyb0ZNdWVxZ0tnQ24xS0Q4T0NjeE1jYWhrZjVta3VfOW84eE1KTDBUUG1mSzJiQm5CZzJMb1htaGJNTXpKVXRxR3RlNHZMSXJtb0JyQ1hmejZyQ2lqajRyUVAyMTlXWTBxNGdvZjN5cnd3V2NCcGk5aHNWXzFrTjZuNHVyT1ZTcW0zUUc0OENyV0toUEZ0RGhpaUVtWUtaNmpEWlNHOVR3YTRNOXJHWHlxczQ?oc=5",
-      "country": "Deutschland",
-      "published": "2026-11-02",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Wochenblatt Reporter",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
       "title": "Newsletter-Gewinnspiel: Gewinne eine Snack-Platte & 6x Bio Punsch von Kolarik im Prater - MeinBezirk.at",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVprSHZUeWpuZzVpQndKZDdCY0xQQWZfZTBqeExtemZuUzVxbGtVZEkyeTk2SnRGdGN1dDZodmlKVkZXUHh1ZDU5Y0R4WXhNclVpeXQteks2dnh3alJhMElqZERpRVBndjlOU1pEWFA0YTN5NHM0WWhsOGV3VTRnME9WUHNPTUJRYnZSUVVYenBIR1Q5d2YtLXNrVnBTSjRXcHdPdEoxc1pnVWhjbnJ4bkhyaHNMQQ?oc=5",
       "country": "Österreich",
@@ -263,29 +194,6 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "MeinBezirk.at",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUThsVHdRZlJMWmhmMEdsdkRiaG5RZUxhdTJOR3J6bWstaG9ueF8wa2FvVWQyV2JmVlJteV9xZngtaUZiUlZVZy1RWmxGWlNmbGo5eUNFU1lCYW5FT0ZFVFFyMlF1VUlndVMwV1dlamZZYzFqYzdTaHVEZXFyc0dIaDBJdVLSAYQBQVVfeXFMUFE4bFR3UWZSTFpoZjBHbHZEYmhuUWVMYXUyTkdyem1rLWhvbnhfMGthb1VkMldiZlZSbXlfcWZ4LWlGYlJWVWctUVpsRlpTZmxqOXlDRVNZQmFuRU9GRVRRcjJRdVVJZ3VTMFdXZWpmWWMxamM3U2h1RGVxcnNHSGgwSXVS?oc=5",
-      "country": "Deutschland",
-      "published": "2026-11-01",
-      "deadline": "",
-      "category": "Gutscheine",
-      "source": "Naturschutz.ch",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -463,13 +371,13 @@
       "directEntryVerified": false
     },
     {
-      "title": "Verlosung: Tickets für Heimspiele des SC DHfK Leipzig gewinnen - LVZ - Leipziger Volkszeitung",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa21LY1d6LWhyOEItRXVoaVYzbGwwdlRXd2ZPdmRpNGY1OXVINGlfRDVFUnlMbG4zYjNpMi1LVTRtMG1JaU00RkVqMmJ3UlNpWktHYmUxaUhhdklIN2g1SXR4UGtYVWQxbWNYZVZMYzRxWWVNMmUyVm9ZbFFaOWpIOW1uZFFMZEw1dnBwR1dzVExweHNZbURrRVBmQTlrdW9PUzMyYzNlU3c1R2xEQTNwaDdhSjFTUFltSTZXOTV6WWVkVkNHVkk40gHjAUFVX3lxTE9kNjBWdTRBSHFlcDFjNExIRU42TGZ0Tkdma0pSdzZyWk5uRmZCWTdQam5DM0Nka2xaT185T0RLX2NsY0FibWFmbEl0MlRtOWFDUVJYQVNrOVZVSG12TTlHTVdjVDlERGM2VndyV09heXd6RTBhWjdTR0RZWjNaRU04ZUk1bW9qZWR4WVB2WWxuWjkzWkZoSkROVE9zVXRsbWRnellVWFQ3MWlySzlDNU8tWTVma2pxRHppZXFDdWNxczR6ZFBFWmpYWUlicFV4OVRDZDlmR0FrZUFLY0U0MTZMMC1F?oc=5",
+      "title": "AZ-Verlosung: Tickets für Semino Rossi in Wolfsburg - WAZ-ONLINE.de",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDM3eHlpcnFyMXhicmxuZ3RFeXZTY3FmdnZpM0NyYmgxVlFuOHo2dGxHS2lEODRpbjB4WW1ybVJoQTluWGswWC1sVmxfUncwUEpxdG5VaWdDMTk4Y2JjaEJ1R2JMa00xTXhiaVFMYUt6TnJrSVJ2Q2JZNzRhdFdsRC1nZlVPTlE1MEcwQ0F0RTgyaXM3bnZGa1g5dHlhRG1YWlo5SWJvM21zUWdBaWZ2TzNJMV9TYkczMzdjajhWSWx0aFZLTHfSAeIBQVVfeXFMT1o4SkczRUxuams4Qk1aSTZMZW9HdVVIZm91NlZ0ZUttaFR1YzVFNFpXNHJnRWFHTE5iYzNJZFhIQU9YWktQMU01VXRZRks5ZDJzdWJFdHJRMUd4WTFfeHJrdEVobHN5LTIzVmROTXBhVTgxbG9EeGFybUxVRG9RRGoyb0RpQ3Y1bURnaTI4OF9ROXlJaE5mcmpha09vR09pWUlQYnFhYk5wbC1OSFpSVnJ3VXpJTW9LN0Fib3NFcGJlZjdZeV8xOUhMdENWUy11c1FuSlNlQkh3X2prUVlzNFdPZw?oc=5",
       "country": "Deutschland",
       "published": "2026-10-29",
       "deadline": "",
       "category": "Sachpreise",
-      "source": "LVZ - Leipziger Volkszeitung",
+      "source": "WAZ-ONLINE.de",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -578,6 +486,29 @@
       "directEntryVerified": false
     },
     {
+      "title": "Mitmachen und gewinnen: Wie gut kennen Sie das Ostseebad Boltenhagen? - Ostsee Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkJ3WmxvdGNlWkxvcjFDWVFYVVNlZEhCS2FFSTV5R1AzMk5iSVhJUy00V0FZcVRLNUJWS3NsSTQ0d0s1V0dTM0dEY0wwWFllNlZ2OFEyWXlsVVJRTmtjMWNqSFk0RnJGVmRqb1pNVnpwcjl6N0lIbTlEdXo2aHN2d3VSTFlsTVBqYXBQLTV0S25nUEJMV1g1YmFNSENxN1ZoaGgxVUpyaWpHX2U3ckFTS01ZVE1wbHlSZkJETHNDUEpDcjRnQmdkMzlpUW4wVGN3WTc0d2tkVTlLX09WSVdXS2xKY3hWNTDSAYMCQVVfeXFMUE81cXA2U0xUT05DYUk0RTdMZHA4bXVKaDlIaUVfbklpNDhyZ3prSUpIZXZ2bnExR0ZTTG1EbThiYUhEWDBrWkdtcWJxU2YzZ2luN1FMbDIwUlNSd3YtcnlsN2RRZVY1M2xyYVNiNmNsSjZaa1l1VktpTzJQNWd5Q0p0UlJ4QVFTbVBhNFk0c2RMMGhCME5oblVHMEU0XzFqZGMzTXFfdUVmNUtsbkItSEtzUlJBeFRXVmV6Nkc1azFJY2FoVWtnMjExSjhMbTJIVXhaOFVCaGFOX2VUZlRTSjJ1VEtCdnhIWWhtS3Ricm5JZjdIUTZ5U0Q2M0xaYjNyTEt4aw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-28",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "Ostsee Zeitung",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
       "title": "Gewinnspiel: Wir verlosen 2×2 Kinogutscheine für GODZILLA MINUS ZERO – Ab 05.11. NUR im Kino! - DailyGame.at",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWQya0VDYnBQdlliSUY1MW9zaEtiNWVvaGRUN0c3LVJNOEp2RDcxalFNTFVjbU5Jbk1DemN3XzVlM3JzRmpLeVhZVHBrYUREdkk5SkZwbnd5bFo5dzNBVkpoTlBjTUZaZlNQWUFiWWRyblZqTGhXRDRCbTF5elpNZWdONmZ6Z1U2ZFE?oc=5",
       "country": "Österreich",
@@ -624,5 +555,17 @@
       "directEntryVerified": false
     }
   ],
-  "errors": []
+  "errors": [],
+  "diagnostics": {
+    "criteria_met": {
+      "direct_link": 0,
+      "deadline": 0,
+      "free": 2,
+      "country": 0,
+      "entry": 0
+    },
+    "verified": 0,
+    "unverified": 24
+  },
+  "schema_version": 2
 }
