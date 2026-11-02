@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 14:50 UTC",
-  "updated_at": "2026-11-02 14:50 UTC",
+  "updated": "2026-11-02 15:24 UTC",
+  "updated_at": "2026-11-02 15:24 UTC",
   "items": [
     {
       "title": "Gewinnen UK-Filmpremiere in London",
@@ -125,29 +125,6 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "Heute",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Gewinnspiel: Edelrid Hallen-Set in der Bergfreunde-Edition - Lacrux Klettermagazin",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3pITGE4b2hrb3puSFpjN1d0UGp0YjhaZTZqejJySGs3RkJGVU8yeGVFWjlNQTY3dXFiVEdIVDdFMmttalhWV0c4UHRwMGZZQ1ZIUG83WGZ6M1ZyTkdIS1VrMm1LVjNnREJNbzFFenhmWk41aGZKdGRUU2Ffa3pDaGV6SDMwZVhzZFNkbGxsTVZWa1FR?oc=5",
-      "country": "Österreich",
-      "published": "2026-11-02",
-      "deadline": "",
-      "category": "Sachpreise",
-      "source": "Lacrux Klettermagazin",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -585,52 +562,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-28",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "SUPERillu",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Mitmachen und gewinnen: Wie gut kennen Sie das Ostseebad Boltenhagen? - Ostsee Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkJ3WmxvdGNlWkxvcjFDWVFYVVNlZEhCS2FFSTV5R1AzMk5iSVhJUy00V0FZcVRLNUJWS3NsSTQ0d0s1V0dTM0dEY0wwWFllNlZ2OFEyWXlsVVJRTmtjMWNqSFk0RnJGVmRqb1pNVnpwcjl6N0lIbTlEdXo2aHN2d3VSTFlsTVBqYXBQLTV0S25nUEJMV1g1YmFNSENxN1ZoaGgxVUpyaWpHX2U3ckFTS01ZVE1wbHlSZkJETHNDUEpDcjRnQmdkMzlpUW4wVGN3WTc0d2tkVTlLX09WSVdXS2xKY3hWNTDSAYMCQVVfeXFMUE81cXA2U0xUT05DYUk0RTdMZHA4bXVKaDlIaUVfbklpNDhyZ3prSUpIZXZ2bnExR0ZTTG1EbThiYUhEWDBrWkdtcWJxU2YzZ2luN1FMbDIwUlNSd3YtcnlsN2RRZVY1M2xyYVNiNmNsSjZaa1l1VktpTzJQNWd5Q0p0UlJ4QVFTbVBhNFk0c2RMMGhCME5oblVHMEU0XzFqZGMzTXFfdUVmNUtsbkItSEtzUlJBeFRXVmV6Nkc1azFJY2FoVWtnMjExSjhMbTJIVXhaOFVCaGFOX2VUZlRTSjJ1VEtCdnhIWWhtS3Ricm5JZjdIUTZ5U0Q2M0xaYjNyTEt4aw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-28",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Ostsee Zeitung",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
