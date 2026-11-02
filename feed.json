@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01 20:15 UTC",
-  "updated_at": "2026-11-01 20:15 UTC",
+  "updated": "2026-11-02 07:46 UTC",
+  "updated_at": "2026-11-02 07:46 UTC",
   "items": [
     {
       "title": "Gewinnen UK-Filmpremiere in London",
       "url": "https://oe3.orf.at/promo/stories/3055061/",
       "country": "Österreich",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "deadline": "",
       "category": "Sonstiges",
       "source": "oe3.orf.at",
@@ -25,7 +25,7 @@
       "title": "3047447",
       "url": "https://oe3.orf.at/mitmachen/stories/3047447/",
       "country": "Österreich",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "deadline": "",
       "category": "Sonstiges",
       "source": "oe3.orf.at",
@@ -44,7 +44,7 @@
       "title": "Gewinn Tickets für Bonobo live in Wien",
       "url": "https://fm4.orf.at/story/bonobo-verlosung-100",
       "country": "Österreich",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
@@ -60,12 +60,12 @@
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
-      "title": "Zu gewinnen: Karten für Erobique live in Österreich!",
-      "url": "https://fm4.orf.at/story/erobique-live-100",
+      "title": "Zartmann Sommer Open Airs – Tickets zu gewinnen",
+      "url": "https://fm4.orf.at/story/zartmann-provinz-102",
       "country": "Österreich",
-      "published": "2026-11-01",
+      "published": "2026-11-02",
       "deadline": "",
-      "category": "Sonstiges",
+      "category": "Sachpreise",
       "source": "fm4.orf.at",
       "description": "Ungeprüfter Hinweis: Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "verified": false,
@@ -79,6 +79,82 @@
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen"
     },
     {
+      "title": "Gewinnspiel – Skispringer tot! Österreich-Star in Mord verwickelt - Heute",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTBpZ0VWOGE2SXlDb2Jvcy10Y0sxdEdfQllWNVVhemRkM0hPZ0Q2dlRkQ093VHVvSUlJQVpEOG9BYUFaT2FMSEZndnAzUXVfOG9YOHZtd0VRSEpCcmlYMERmZGR6VEFDcGNtQWxzOWNWTS0teW1RUlJBV0pLREQ1NWtJNlZiMFhKTjMxMA?oc=5",
+      "country": "Österreich",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "Heute",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Miles & More Gewinnspiel: 100 × 100.000 Meilen zum Lufthansa-Jubiläum - meilenoptimieren",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZngwSS01bUlOZjEyVFg3SUdLbXhZeDc5Yy1tdjUzbkVLSlM1S0xlakJZQWJ6bUVoQ3p2VHMybzl3bkVBd0otM1J0VlVBdXIzMlFDTGUxWnlBbWFMTVBmdktjVGQzLW5mbldYWk9PdHc1d2pnenpWMVRvd0p3SDhaVDNn?oc=5",
+      "country": "Österreich",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "meilenoptimieren",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Newsletter-Gewinnspiel: Gewinne eine Snack-Platte & 6x Bio Punsch von Kolarik im Prater - MeinBezirk.at",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVprSHZUeWpuZzVpQndKZDdCY0xQQWZfZTBqeExtemZuUzVxbGtVZEkyeTk2SnRGdGN1dDZodmlKVkZXUHh1ZDU5Y0R4WXhNclVpeXQteks2dnh3alJhMElqZERpRVBndjlOU1pEWFA0YTN5NHM0WWhsOGV3VTRnME9WUHNPTUJRYnZSUVVYenBIR1Q5d2YtLXNrVnBTSjRXcHdPdEoxc1pnVWhjbnJ4bkhyaHNMQQ?oc=5",
+      "country": "Österreich",
+      "published": "2026-11-01",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "MeinBezirk.at",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Verlosung: GreenPick Geschenkkarte - Naturschutz.ch",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUThsVHdRZlJMWmhmMEdsdkRiaG5RZUxhdTJOR3J6bWstaG9ueF8wa2FvVWQyV2JmVlJteV9xZngtaUZiUlZVZy1RWmxGWlNmbGo5eUNFU1lCYW5FT0ZFVFFyMlF1VUlndVMwV1dlamZZYzFqYzdTaHVEZXFyc0dIaDBJdVLSAYQBQVVfeXFMUFE4bFR3UWZSTFpoZjBHbHZEYmhuUWVMYXUyTkdyem1rLWhvbnhfMGthb1VkMldiZlZSbXlfcWZ4LWlGYlJWVWctUVpsRlpTZmxqOXlDRVNZQmFuRU9GRVRRcjJRdVVJZ3VTMFdXZWpmWWMxamM3U2h1RGVxcnNHSGgwSXVS?oc=5",
+      "country": "Deutschland",
+      "published": "2026-11-01",
+      "deadline": "",
+      "category": "Gutscheine",
+      "source": "Naturschutz.ch",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
       "title": "Gewinnspiel: Wir verlosen How to rob a Bank Kinogutscheine - Beyond Pixels",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2JJX3JaT1dON0FkVEZQb19WLTBCTGQxc2d2MFFfb2ZfZ0JNa2xfMGM4ZXhxcXN1U0JYRXh6N1BrUURLbzdhVHAzaWl4Y1hJcHI3NkU1cjZudXE2MjhkWUkxeTdTaW5HNmpCVi1WVkRaTnpGU1JRYUVXNjJWcHpJYnlLempWSmhxcnhMQnF1NA?oc=5",
       "country": "Deutschland",
@@ -86,6 +162,25 @@
       "deadline": "",
       "category": "Gutscheine",
       "source": "Beyond Pixels",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
+    },
+    {
+      "title": "Gewinnspiel mit The Wolf Among Us Remastered - aber nur heute - XboxDynasty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnZydDlHOWtWb2dhZU5NczNfNGhheDJhQUx5a3FCaVI5c2FHNktpNzY4RUxaWDlYQzJEUGFzT1JmVFFpYlV3d3N3bkpWZElVZUpwS1VyQ18ydUhRODFNSG9BUFVqVGdCOHdjck9yMXBNX1RvYkNOcDlBRUlxejhhcnZuazhSeXg5UFZuYTE5QXBnQjBoMzUtSk0tVTcxbDctSmdoR1paaw?oc=5",
+      "country": "Deutschland",
+      "published": "2026-10-31",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "XboxDynasty",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -212,25 +307,6 @@
       "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
     },
     {
-      "title": "AZ-Verlosung: Tickets für Semino Rossi in Wolfsburg - WAZ-ONLINE.de",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDM3eHlpcnFyMXhicmxuZ3RFeXZTY3FmdnZpM0NyYmgxVlFuOHo2dGxHS2lEODRpbjB4WW1ybVJoQTluWGswWC1sVmxfUncwUEpxdG5VaWdDMTk4Y2JjaEJ1R2JMa00xTXhiaVFMYUt6TnJrSVJ2Q2JZNzRhdFdsRC1nZlVPTlE1MEcwQ0F0RTgyaXM3bnZGa1g5dHlhRG1YWlo5SWJvM21zUWdBaWZ2TzNJMV9TYkczMzdjajhWSWx0aFZLTHfSAeIBQVVfeXFMT1o4SkczRUxuams4Qk1aSTZMZW9HdVVIZm91NlZ0ZUttaFR1YzVFNFpXNHJnRWFHTE5iYzNJZFhIQU9YWktQMU01VXRZRks5ZDJzdWJFdHJRMUd4WTFfeHJrdEVobHN5LTIzVmROTXBhVTgxbG9EeGFybUxVRG9RRGoyb0RpQ3Y1bURnaTI4OF9ROXlJaE5mcmpha09vR09pWUlQYnFhYk5wbC1OSFpSVnJ3VXpJTW9LN0Fib3NFcGJlZjdZeV8xOUhMdENWUy11c1FuSlNlQkh3X2prUVlzNFdPZw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-29",
-      "deadline": "",
-      "category": "Sachpreise",
-      "source": "WAZ-ONLINE.de",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
       "title": "Verlosung: Tickets für Heimspiele des SC DHfK Leipzig gewinnen - LVZ - Leipziger Volkszeitung",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa21LY1d6LWhyOEItRXVoaVYzbGwwdlRXd2ZPdmRpNGY1OXVINGlfRDVFUnlMbG4zYjNpMi1LVTRtMG1JaU00RkVqMmJ3UlNpWktHYmUxaUhhdklIN2g1SXR4UGtYVWQxbWNYZVZMYzRxWWVNMmUyVm9ZbFFaOWpIOW1uZFFMZEw1dnBwR1dzVExweHNZbURrRVBmQTlrdW9PUzMyYzNlU3c1R2xEQTNwaDdhSjFTUFltSTZXOTV6WWVkVkNHVkk40gHjAUFVX3lxTE9kNjBWdTRBSHFlcDFjNExIRU42TGZ0Tkdma0pSdzZyWk5uRmZCWTdQam5DM0Nka2xaT185T0RLX2NsY0FibWFmbEl0MlRtOWFDUVJYQVNrOVZVSG12TTlHTVdjVDlERGM2VndyV09heXd6RTBhWjdTR0RZWjNaRU04ZUk1bW9qZWR4WVB2WWxuWjkzWkZoSkROVE9zVXRsbWRnellVWFQ3MWlySzlDNU8tWTVma2pxRHppZXFDdWNxczR6ZFBFWmpYWUlicFV4OVRDZDlmR0FrZUFLY0U0MTZMMC1F?oc=5",
       "country": "Deutschland",
@@ -238,25 +314,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "LVZ - Leipziger Volkszeitung",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Gewinnspiel: The Hunger Games - Exklusives Fanpaket - myFanbase",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWS10WVdYWF8zTlY0Mlg3dlladHFKM0oxR2xjcEZJQ0RSUnRqbTl5VW1NWGtmQmxiN0UtOFhZSTE1c01VcVhkOXRwUDZ1b2I5NDdpUkxROS1GU3pn?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-29",
-      "deadline": "",
-      "category": "Sachpreise",
-      "source": "myFanbase",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -333,25 +390,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "MeinBezirk.at",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Mitmachen und gewinnen: Wie gut kennen Sie das Ostseebad Boltenhagen? - Ostsee Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkJ3WmxvdGNlWkxvcjFDWVFYVVNlZEhCS2FFSTV5R1AzMk5iSVhJUy00V0FZcVRLNUJWS3NsSTQ0d0s1V0dTM0dEY0wwWFllNlZ2OFEyWXlsVVJRTmtjMWNqSFk0RnJGVmRqb1pNVnpwcjl6N0lIbTlEdXo2aHN2d3VSTFlsTVBqYXBQLTV0S25nUEJMV1g1YmFNSENxN1ZoaGgxVUpyaWpHX2U3ckFTS01ZVE1wbHlSZkJETHNDUEpDcjRnQmdkMzlpUW4wVGN3WTc0d2tkVTlLX09WSVdXS2xKY3hWNTDSAYMCQVVfeXFMUE81cXA2U0xUT05DYUk0RTdMZHA4bXVKaDlIaUVfbklpNDhyZ3prSUpIZXZ2bnExR0ZTTG1EbThiYUhEWDBrWkdtcWJxU2YzZ2luN1FMbDIwUlNSd3YtcnlsN2RRZVY1M2xyYVNiNmNsSjZaa1l1VktpTzJQNWd5Q0p0UlJ4QVFTbVBhNFk0c2RMMGhCME5oblVHMEU0XzFqZGMzTXFfdUVmNUtsbkItSEtzUlJBeFRXVmV6Nkc1azFJY2FoVWtnMjExSjhMbTJIVXhaOFVCaGFOX2VUZlRTSjJ1VEtCdnhIWWhtS3Ricm5JZjdIUTZ5U0Q2M0xaYjNyTEt4aw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-28",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Ostsee Zeitung",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -459,44 +497,6 @@
       "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
     },
     {
-      "title": "Eishockey-Gewinnspiel: Adler Mannheim gegen Grizzlys Wolfsburg - Wochenblatt Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzV1YThqVWExZ1ltTWJRV1RfNU5DRDU0cUJmZHZzaUhIQ0R4QkZlZW44eWtNWXNMVGR6NTBCLUhEQTdTVkVUcTdNX2p1VGtkOC1uNklJamcxY0Z0SG5jeU5fekxCejNWTF8ya3VQOHU3YlFERGpCWTY2OEp3dS1tZjFReVN2ZHM0VEdseWZ1UzhsdGhSOWlweEZBUG5MUDZFaGNMUE05QTF1cldKa0w2b0JGRERUME1NUVFkRWZsVQ?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-26",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Wochenblatt Reporter",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Gewinnspiel: Ozean von Katharina Höftmann - kulturnews.de",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qYUVqMHMwd0haYlI5TU9pTnhybktxYnh3X1VXUUFoN0VjUUQzamk2aG5TVmtBSXpRY1lxRnJ3cVlTNHVzdVBkSnF6anhjanZmZFRUcGo5QUhyVkdSZGp6NFBfbGdWbnUtT1p4Xw?oc=5",
-      "country": "Deutschland",
-      "published": "2026-10-26",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "kulturnews.de",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
       "title": "J Gewinnspiel - Hanna & Harald im KKThun erleben – Jetzt Tickets gewinnen - Plattform J",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fQTRzNnk1Tmx4R05VSVpXT3NoR0ZEYnRienRpanJtUm9yZmxGNHFlcHR0R0dXaXFEam9NcmZyS2FrRnpxaVpncTFRUnBBcjk1d1dr?oc=5",
       "country": "Deutschland",
@@ -504,25 +504,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "Plattform J",
-      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite"
-    },
-    {
-      "title": "Gewinnspiel: Riedenweinpräsentation 2026 große Weine aus den besten Rieden der Steiermark - Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjJzSEZBcDgtTkt6SzJxaDNqR3NLRlNHa2lmN3B2dGtYNHNTOHRZOFVFRlZ3YTZXRlphX2Z1c2J6WjllZi0tRk1qU0hUcURGMmpJakhrUGV6QXJNX1p1SkdyVzNlLU00UnRWd2VNWXRlU1pnWVBOV213a3ZNS2VCeU4tMHZJeHZ6SEtRRnZDMWFReXV5ZWpFT3NxTjJYaVpKZ0FHb3VlQVFjMjZjU0ZhUjZ2SlV2VDl1SXByR20tSDc?oc=5",
-      "country": "Österreich",
-      "published": "2026-10-25",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "Falstaff",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
