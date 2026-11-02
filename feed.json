@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 15:51 UTC",
-  "updated_at": "2026-11-02 15:51 UTC",
+  "updated": "2026-11-02 18:45 UTC",
+  "updated_at": "2026-11-02 18:45 UTC",
   "items": [
     {
       "title": "Gewinnen UK-Filmpremiere in London",
@@ -72,13 +72,59 @@
       "directEntryVerified": false
     },
     {
-      "title": "Gewinnspiel: GODZILLA MINUS ZERO - Gamers.at",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSUHQtXzZIM2RjWlI5VFFZNjVac2JNN3c0cmdkNmVFaFJGTm9uajFxbDI1T0txaUNmd1BjeGxhN3hISHJmRGRKWTVZQnNkSUcyTi1ZbW1zTlVSb3NHM1U4R05WWlhrUHRC?oc=5",
+      "title": "Early Bird Tickets available: Das FM4 Geburtstagsfest 2027",
+      "url": "https://fm4.orf.at/story/fm4-geburtstagsfest-2027-100",
+      "country": "Österreich",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "fm4.orf.at",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": true,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
+      "title": "Events & Tickets",
+      "url": "https://www.radio7.de/zuhause",
+      "country": "Deutschland",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "www.radio7.de",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "verified": false,
+      "verification": {
+        "direct_link": true,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
+      "title": "Gewinnspiel: EBENEZER – EINE WEIHNACHTSGESCHICHTE - oeticket.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2V4RTZLb1dnd3VDdHBhMnNva1VSa3FNTExWcDJoaTAyRWVtRmtKREdqZkFtLVprandjVHVYQy1wYVdfNUEwVlVFTW14cTlRaGJfdjdsMzhVaFhLQmtaNDRSRWtkd2dlcHpMNkUxa185OWV4UmR5MDdPQUY4NXZhWTdkaW9LZ2xvS1NaNzhPNjYzdUtOU3I0eQ?oc=5",
       "country": "Österreich",
       "published": "2026-11-02",
       "deadline": "",
       "category": "Sonstiges",
-      "source": "Gamers.at",
+      "source": "oeticket.com",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -95,13 +141,13 @@
       "directEntryVerified": false
     },
     {
-      "title": "Gewinnspiel – Skispringer tot! Österreich-Star in Mord verwickelt - Heute",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTBpZ0VWOGE2SXlDb2Jvcy10Y0sxdEdfQllWNVVhemRkM0hPZ0Q2dlRkQ093VHVvSUlJQVpEOG9BYUFaT2FMSEZndnAzUXVfOG9YOHZtd0VRSEpCcmlYMERmZGR6VEFDcGNtQWxzOWNWTS0teW1RUlJBV0pLREQ1NWtJNlZiMFhKTjMxMA?oc=5",
+      "title": "Gewinnspiel: GODZILLA MINUS ZERO - Gamers.at",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SXIta3Rub3FKRGswUjFJYzZLbVZYY1FLRGpyR0o0a1R6RklVMHFUZXBDZGRCTS12UUpPZDRIVTNxVF9ETXBfU3JuMWVGaUJ4YmZiQ082THNNUWstTEJ2LTdnZVJWZm1iY3c?oc=5",
       "country": "Österreich",
       "published": "2026-11-02",
       "deadline": "",
       "category": "Sonstiges",
-      "source": "Heute",
+      "source": "Gamers.at",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -148,6 +194,29 @@
       "deadline": "",
       "category": "Reisen",
       "source": "WELT",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
+      "title": "Gewinnspiel: Edelrid Hallen-Set in der Bergfreunde-Edition - Lacrux Klettermagazin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3pITGE4b2hrb3puSFpjN1d0UGp0YjhaZTZqejJySGs3RkJGVU8yeGVFWjlNQTY3dXFiVEdIVDdFMmttalhWV0c4UHRwMGZZQ1ZIUG83WGZ6M1ZyTkdIS1VrMm1LVjNnREJNbzFFenhmWk41aGZKdGRUU2Ffa3pDaGV6SDMwZVhzZFNkbGxsTVZWa1FR?oc=5",
+      "country": "Deutschland",
+      "published": "2026-11-02",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "Lacrux Klettermagazin",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -440,6 +509,29 @@
       "directEntryVerified": false
     },
     {
+      "title": "Gewinnspiel: Jetzt mitmachen und Tickets für Dirk Stermann gewinnen! - MeinBezirk.at",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzBIQ0FFTGxRb0stVVl5aWZJc21BZjdfM1FjT19rRDc5NVVxdHprVWh5cWt5b1NzSXFscHhJTHNiNHF4S1lRZDdCTUt2alFoM1FOdmpaWVRuM0JEYVlXdHBMTk93VWJNcEZ0SjFsRHNIdHdWNHhYR3NCWFMxeERmVWxzUjVIUUowUzNBaHJtSHhFZnpmSVpJRUd6VVNpRHlhaGZNcThvcFJkSnBKbmNSMA?oc=5",
+      "country": "Österreich",
+      "published": "2026-10-28",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "MeinBezirk.at",
+      "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Pressehinweis: keine bestätigte Veranstalterseite",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
       "title": "Gewinnspiel: Rockhouse Konzert-Highlights im November 2026 - oeticket.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN296OGZ5NHI2allMQzc0SU9pRlB4d2F5Mk1lVzJwbS12c21aZkZFOTcxX2Y4UUFFeXdVdmlzUjQxT2EwUmk4OU00NU5waG1lNVZkTVppbUZaRUI4QmtDRy1ybUZtOWFPaHFPZzZzdmlzSlhkRVBzSnJHWjhrOFpSUHowVjNTa1AxakhjdC1ob3NxZ3czVHVvd3VNY1RBaHd6N2pEMWZzNA?oc=5",
       "country": "Österreich",
@@ -463,13 +555,13 @@
       "directEntryVerified": false
     },
     {
-      "title": "Gewinnspiel: Jetzt mitmachen und Tickets für Dirk Stermann gewinnen! - MeinBezirk.at",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzBIQ0FFTGxRb0stVVl5aWZJc21BZjdfM1FjT19rRDc5NVVxdHprVWh5cWt5b1NzSXFscHhJTHNiNHF4S1lRZDdCTUt2alFoM1FOdmpaWVRuM0JEYVlXdHBMTk93VWJNcEZ0SjFsRHNIdHdWNHhYR3NCWFMxeERmVWxzUjVIUUowUzNBaHJtSHhFZnpmSVpJRUd6VVNpRHlhaGZNcThvcFJkSnBKbmNSMA?oc=5",
-      "country": "Österreich",
+      "title": "Europa-Park Gewinnspiel: Fußball trifft Fahrspaß - SUPERillu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1EVy1xTzVVZXpxRDRiMmRYZFNvSjZCVHd0dHp0UHVJa2hzX0JWTktmbE9jYVNPc0R4eTFNaVR6MDJFZFBYUjM2ZzBobTFPZWpGUF9YOGFhVU9hVzNHS0FEMHhLMlBQbFFzbEZ5VlJWQ1ZCMzcwbUJNWlBiM0pMdm5EVnVsZw?oc=5",
+      "country": "Deutschland",
       "published": "2026-10-28",
       "deadline": "",
-      "category": "Sachpreise",
-      "source": "MeinBezirk.at",
+      "category": "Sonstiges",
+      "source": "SUPERillu",
       "description": "Ungeprüfter Pressehinweis: kein direkter Veranstalterlink.",
       "verified": false,
       "verification": {
@@ -558,14 +650,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 0,
+      "direct_link": 1,
       "deadline": 0,
-      "free": 2,
+      "free": 3,
       "country": 0,
       "entry": 0
     },
     "verified": 0,
-    "unverified": 24
+    "unverified": 28
   },
   "schema_version": 2
 }
