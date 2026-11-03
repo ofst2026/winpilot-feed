@@ -1,7 +1,53 @@
 {
-  "updated": "2026-11-03 07:34 UTC",
-  "updated_at": "2026-11-03 07:34 UTC",
+  "updated": "2026-11-03 11:21 UTC",
+  "updated_at": "2026-11-03 11:21 UTC",
   "items": [
+    {
+      "title": "Gewinnspiele",
+      "url": "https://www.liferadio.at/juhuuu-zone",
+      "country": "Österreich",
+      "published": "2026-11-03",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "www.liferadio.at",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "verified": false,
+      "verification": {
+        "direct_link": true,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
+    {
+      "title": "Resch&Frisch: Life Radio Starterpaket-Aktion",
+      "url": "https://www.liferadio.at/resch-und-frisch",
+      "country": "Österreich",
+      "published": "2026-11-03",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "www.liferadio.at",
+      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "verified": false,
+      "verification": {
+        "direct_link": true,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false
+    },
     {
       "title": "Ferienreporter gesucht: Kids aus Bayern berichten aus ihrer Region für ANTENNE BAYERN – Jetzt mitmachen!",
       "url": "https://www.antenne.de/programm/aktionen/ferienreporter",
@@ -59,13 +105,13 @@
       "description": "Bedingungen noch nicht vollständig bestätigt.",
       "verified": false,
       "verification": {
-        "direct_link": false,
+        "direct_link": true,
         "deadline": false,
         "free": false,
         "country": false,
         "entry": false
       },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -105,13 +151,13 @@
       "description": "Bedingungen noch nicht vollständig bestätigt.",
       "verified": false,
       "verification": {
-        "direct_link": false,
+        "direct_link": true,
         "deadline": false,
         "free": true,
         "country": false,
         "entry": false
       },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -190,14 +236,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 1,
+      "direct_link": 5,
       "deadline": 0,
       "free": 3,
       "country": 0,
       "entry": 1
     },
     "verified": 0,
-    "unverified": 8
+    "unverified": 10
   },
   "schema_version": 2
 }
