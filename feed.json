@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 07:38 UTC",
-  "updated_at": "2026-11-04 07:38 UTC",
+  "updated": "2026-11-04 19:21 UTC",
+  "updated_at": "2026-11-04 19:21 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -89,52 +89,6 @@
         "entry": false
       },
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Gewinn von BMW schrumpft - und es wird noch schlimmer",
-      "url": "https://www.antenne.de/nachrichten/bayern/gewinn-von-bmw-schrumpft-und-es-wird-noch-schlimmer",
-      "country": "Deutschland",
-      "published": "2026-11-04",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false
-    },
-    {
-      "title": "Gewinnen UK-Filmpremiere in London",
-      "url": "https://oe3.orf.at/promo/stories/3055061/",
-      "country": "Österreich",
-      "published": "2026-11-04",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "oe3.orf.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -259,14 +213,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 5,
+      "direct_link": 4,
       "deadline": 0,
       "free": 3,
       "country": 0,
       "entry": 1
     },
     "verified": 0,
-    "unverified": 11
+    "unverified": 9
   },
   "schema_version": 2
 }
