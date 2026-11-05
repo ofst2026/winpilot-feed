@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05 07:40 UTC",
-  "updated_at": "2026-11-05 07:40 UTC",
+  "updated": "2026-11-05 10:44 UTC",
+  "updated_at": "2026-11-05 10:44 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -10,7 +10,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "www.liferadio.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": true,
@@ -23,7 +23,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Resch&Frisch: Life Radio Starterpaket-Aktion",
@@ -33,7 +34,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.liferadio.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": true,
@@ -46,7 +47,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Ferienreporter gesucht: Kids aus Bayern berichten aus ihrer Region für ANTENNE BAYERN – Jetzt mitmachen!",
@@ -56,7 +58,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "www.antenne.de",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -69,7 +71,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Die ANTENNE BAYERN Fankurve - Tickets für den FC Bayern!",
@@ -79,7 +82,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.antenne.de",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -92,7 +95,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Mitmachen Hansa fehlen die Worte",
@@ -102,7 +106,7 @@
       "deadline": "",
       "category": "Sonstiges",
       "source": "oe3.orf.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -115,7 +119,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Gewinn Tickets für Bonobo live in Wien",
@@ -125,7 +130,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": true,
@@ -138,7 +143,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Zartmann Sommer Open Airs – Tickets zu gewinnen",
@@ -148,7 +154,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -161,7 +167,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Early Bird Tickets available: Das FM4 Geburtstagsfest 2027",
@@ -171,7 +178,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": false,
@@ -184,7 +191,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     },
     {
       "title": "Events & Tickets",
@@ -194,7 +202,7 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.radio7.de",
-      "description": "Bedingungen noch nicht vollständig bestätigt.",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
         "direct_link": true,
@@ -207,7 +215,8 @@
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
-      "directEntryVerified": false
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
     }
   ],
   "errors": [],
