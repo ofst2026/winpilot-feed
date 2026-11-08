@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08 07:26 UTC",
-  "updated_at": "2026-11-08 07:26 UTC",
+  "updated": "2026-11-08 19:05 UTC",
+  "updated_at": "2026-11-08 19:05 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -44,30 +44,6 @@
         "entry": false
       },
       "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
-      "title": "Ferienreporter gesucht: Kids aus Bayern berichten aus ihrer Region für ANTENNE BAYERN – Jetzt mitmachen!",
-      "url": "https://www.antenne.de/programm/aktionen/ferienreporter",
-      "country": "Deutschland",
-      "published": "2026-11-08",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": true
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -226,10 +202,10 @@
       "deadline": 0,
       "free": 3,
       "country": 0,
-      "entry": 1
+      "entry": 0
     },
     "verified": 0,
-    "unverified": 9
+    "unverified": 8
   },
   "schema_version": 2
 }
