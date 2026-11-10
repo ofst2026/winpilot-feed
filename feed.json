@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10 07:34 UTC",
-  "updated_at": "2026-11-10 07:34 UTC",
+  "updated": "2026-11-10 19:19 UTC",
+  "updated_at": "2026-11-10 19:19 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -58,30 +58,6 @@
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.liferadio.at",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
-      "title": "NFL: Bills gewinnen Topspiel gegen schwache Vikings",
-      "url": "https://www.antenne.de/nachrichten/sport/nfl-bills-gewinnen-topspiel-gegen-schwache-vikings",
-      "country": "Deutschland",
-      "published": "2026-11-10",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
       "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
@@ -270,14 +246,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 5,
+      "direct_link": 4,
       "deadline": 0,
       "free": 2,
       "country": 0,
       "entry": 0
     },
     "verified": 0,
-    "unverified": 11
+    "unverified": 10
   },
   "schema_version": 2
 }
