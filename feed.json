@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10 19:19 UTC",
-  "updated_at": "2026-11-10 19:19 UTC",
+  "updated": "2026-11-11 07:38 UTC",
+  "updated_at": "2026-11-11 07:38 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
       "url": "https://www.liferadio.at/juhuuu-zone",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sonstiges",
       "source": "www.liferadio.at",
@@ -30,7 +30,7 @@
       "title": "Gewinnt einen BMW X2 sDrive 20i",
       "url": "https://www.liferadio.at/pluscity-autoverlosung-2026",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sonstiges",
       "source": "www.liferadio.at",
@@ -54,7 +54,7 @@
       "title": "Resch&Frisch: Life Radio Starterpaket-Aktion",
       "url": "https://www.liferadio.at/resch-und-frisch",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.liferadio.at",
@@ -78,7 +78,7 @@
       "title": "Die ANTENNE BAYERN Fankurve - Tickets für den FC Bayern!",
       "url": "https://www.antenne.de/programm/aktionen/die-antenne-bayern-fankurve",
       "country": "Deutschland",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.antenne.de",
@@ -99,10 +99,34 @@
       "review_status": "noch_pruefen"
     },
     {
+      "title": "GEWINNEN Hock di‘ her, sind wir mehr!",
+      "url": "https://oe3.orf.at/promo/stories/3055040/",
+      "country": "Österreich",
+      "published": "2026-11-11",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "oe3.orf.at",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
+      "verified": false,
+      "verification": {
+        "direct_link": true,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
+    },
+    {
       "title": "Mitmachen Hansa fehlen die Worte",
       "url": "https://oe3.orf.at/programm/stories/2951075/",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sonstiges",
       "source": "oe3.orf.at",
@@ -126,7 +150,7 @@
       "title": "Zartmann Sommer Open Airs – Tickets zu gewinnen",
       "url": "https://fm4.orf.at/story/zartmann-provinz-102",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
@@ -150,7 +174,7 @@
       "title": "Early Bird Tickets available: Das FM4 Geburtstagsfest 2027",
       "url": "https://fm4.orf.at/story/fm4-geburtstagsfest-2027-100",
       "country": "Österreich",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sachpreise",
       "source": "fm4.orf.at",
@@ -171,12 +195,12 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "1-Euro-Aktion geht schief Diese Dönerladen-Eröffnung lief leider komplett aus dem Ruder!",
-      "url": "https://www.swr3.de/aktuell/nachrichten/doener-dortmund-eroeffnung-100.html",
+      "title": "Sichert euch die Tickets Gänsehaut-Garantie beim SWR3 Weihnachtssingen mit dem VfB Stuttgart",
+      "url": "https://www.swr3.de/events/unsere-events/weihnachtssingen-vfb-stuttgart-100.html",
       "country": "Deutschland",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
-      "category": "Sonstiges",
+      "category": "Sachpreise",
       "source": "www.swr3.de",
       "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
@@ -195,12 +219,12 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "Sichert euch die Tickets Gänsehaut-Garantie beim SWR3 Weihnachtssingen mit dem VfB Stuttgart",
-      "url": "https://www.swr3.de/events/unsere-events/weihnachtssingen-vfb-stuttgart-100.html",
+      "title": "1-Euro-Aktion geht schief Diese Dönerladen-Eröffnung lief leider komplett aus dem Ruder!",
+      "url": "https://www.swr3.de/aktuell/nachrichten/doener-dortmund-eroeffnung-104.html",
       "country": "Deutschland",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
-      "category": "Sachpreise",
+      "category": "Sonstiges",
       "source": "www.swr3.de",
       "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
@@ -222,7 +246,7 @@
       "title": "Events & Tickets",
       "url": "https://www.radio7.de/zuhause",
       "country": "Deutschland",
-      "published": "2026-11-10",
+      "published": "2026-11-11",
       "deadline": "",
       "category": "Sachpreise",
       "source": "www.radio7.de",
@@ -246,14 +270,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 4,
+      "direct_link": 5,
       "deadline": 0,
       "free": 2,
       "country": 0,
       "entry": 0
     },
     "verified": 0,
-    "unverified": 10
+    "unverified": 11
   },
   "schema_version": 2
 }
