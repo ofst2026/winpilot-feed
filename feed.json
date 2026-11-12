@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12 07:41 UTC",
-  "updated_at": "2026-11-12 07:41 UTC",
+  "updated": "2026-11-12 19:17 UTC",
+  "updated_at": "2026-11-12 19:17 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -81,30 +81,6 @@
       "published": "2026-11-12",
       "deadline": "",
       "category": "Sachpreise",
-      "source": "www.antenne.de",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
-      "title": "Siemens mit Rekordjahr - aber weniger Gewinn",
-      "url": "https://www.antenne.de/nachrichten/bayern/siemens-mit-rekordjahr-aber-weniger-gewinn",
-      "country": "Deutschland",
-      "published": "2026-11-12",
-      "deadline": "",
-      "category": "Sonstiges",
       "source": "www.antenne.de",
       "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
@@ -301,7 +277,7 @@
       "entry": 0
     },
     "verified": 0,
-    "unverified": 12
+    "unverified": 11
   },
   "schema_version": 2
 }
