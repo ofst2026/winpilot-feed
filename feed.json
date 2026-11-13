@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 07:40 UTC",
-  "updated_at": "2026-11-13 07:40 UTC",
+  "updated": "2026-11-13 19:17 UTC",
+  "updated_at": "2026-11-13 19:17 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -171,6 +171,30 @@
       "review_status": "noch_pruefen"
     },
     {
+      "title": "Gewinn Tickets zur Vienna Comic Con!",
+      "url": "https://fm4.orf.at/story/vienna-comic-con100",
+      "country": "Österreich",
+      "published": "2026-11-13",
+      "deadline": "",
+      "category": "Sachpreise",
+      "source": "fm4.orf.at",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": true,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
+    },
+    {
       "title": "Early Bird Tickets available: Das FM4 Geburtstagsfest 2027",
       "url": "https://fm4.orf.at/story/fm4-geburtstagsfest-2027-100",
       "country": "Österreich",
@@ -219,30 +243,6 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "1-Euro-Aktion geht schief Diese Dönerladen-Eröffnung lief leider komplett aus dem Ruder!",
-      "url": "https://www.swr3.de/aktuell/nachrichten/doener-dortmund-eroeffnung-104.html",
-      "country": "Deutschland",
-      "published": "2026-11-13",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.swr3.de",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
       "title": "Events & Tickets",
       "url": "https://www.radio7.de/zuhause",
       "country": "Deutschland",
@@ -272,7 +272,7 @@
     "criteria_met": {
       "direct_link": 5,
       "deadline": 0,
-      "free": 2,
+      "free": 3,
       "country": 0,
       "entry": 0
     },
