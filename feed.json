@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 09:07 UTC",
-  "updated_at": "2026-11-16 09:07 UTC",
+  "updated": "2026-11-16 19:20 UTC",
+  "updated_at": "2026-11-16 19:20 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -171,6 +171,30 @@
       "review_status": "noch_pruefen"
     },
     {
+      "title": "Die Philippinen gewinnen den ersten ESC Asia",
+      "url": "https://fm4.orf.at/beitrag/32826045",
+      "country": "Österreich",
+      "published": "2026-11-16",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "fm4.orf.at",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
+      "verified": false,
+      "verification": {
+        "direct_link": true,
+        "deadline": false,
+        "free": true,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
+    },
+    {
       "title": "Gewinn Tickets zu Buntspechts „EINGANG / AUSGANG TOUR“",
       "url": "https://fm4.orf.at/story/buntspecht-tour-100",
       "country": "Österreich",
@@ -318,14 +342,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 8,
+      "direct_link": 9,
       "deadline": 0,
-      "free": 3,
+      "free": 4,
       "country": 0,
       "entry": 0
     },
     "verified": 0,
-    "unverified": 13
+    "unverified": 14
   },
   "schema_version": 2
 }
