@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19 07:42 UTC",
-  "updated_at": "2026-11-19 07:42 UTC",
+  "updated": "2026-11-19 19:22 UTC",
+  "updated_at": "2026-11-19 19:22 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -147,6 +147,30 @@
       "review_status": "noch_pruefen"
     },
     {
+      "title": "Tu-Was-Aktion: Wunschzettel mit Heißluftballon zum Christkind",
+      "url": "https://oe3.orf.at/beitrag/32858307",
+      "country": "Österreich",
+      "published": "2026-11-19",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "oe3.orf.at",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
+    },
+    {
       "title": "Die Philippinen gewinnen den ersten ESC Asia",
       "url": "https://fm4.orf.at/beitrag/32826045",
       "country": "Österreich",
@@ -219,30 +243,6 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "Tausche Fails gegen Feier Weihnachtsfeier für euren Verein gewinnen",
-      "url": "https://www.swr3.de/events/unsere-events/swr3-vereinachtsfeier-100.html",
-      "country": "Deutschland",
-      "published": "2026-11-19",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.swr3.de",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
       "title": "Sichert euch die Tickets Gänsehaut-Garantie beim SWR3 Weihnachtssingen mit dem VfB Stuttgart",
       "url": "https://www.swr3.de/events/unsere-events/weihnachtssingen-vfb-stuttgart-100.html",
       "country": "Deutschland",
@@ -294,7 +294,7 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 8,
+      "direct_link": 7,
       "deadline": 0,
       "free": 3,
       "country": 0,
