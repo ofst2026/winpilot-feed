@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 07:41 UTC",
-  "updated_at": "2026-11-20 07:41 UTC",
+  "updated": "2026-11-20 19:25 UTC",
+  "updated_at": "2026-11-20 19:25 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -75,30 +75,6 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "Sieg in Wien: Bayern-Frauen winkt Ticket fürs Viertelfinale",
-      "url": "https://www.antenne.de/nachrichten/bayern/sieg-in-wien-bayern-frauen-winkt-ticket-fuers-viertelfinale",
-      "country": "Deutschland",
-      "published": "2026-11-20",
-      "deadline": "",
-      "category": "Sonstiges",
-      "source": "www.antenne.de",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": false,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
       "title": "Die ANTENNE BAYERN Fankurve - Tickets für den FC Bayern!",
       "url": "https://www.antenne.de/programm/aktionen/die-antenne-bayern-fankurve",
       "country": "Deutschland",
@@ -116,30 +92,6 @@
         "entry": false
       },
       "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
-      "freeEntry": false,
-      "eligibleCountriesVerified": false,
-      "deadlineVerified": false,
-      "directEntryVerified": false,
-      "review_status": "noch_pruefen"
-    },
-    {
-      "title": "Skiurlaub für 4 zu gewinnen! (Werbung)",
-      "url": "https://oe3.orf.at/story/das_quiz_lift_quiz100",
-      "country": "Österreich",
-      "published": "2026-11-20",
-      "deadline": "",
-      "category": "Reisen",
-      "source": "oe3.orf.at",
-      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
-      "verified": false,
-      "verification": {
-        "direct_link": true,
-        "deadline": false,
-        "free": false,
-        "country": false,
-        "entry": false
-      },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -318,14 +270,14 @@
   "errors": [],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 7,
+      "direct_link": 6,
       "deadline": 0,
       "free": 3,
       "country": 0,
       "entry": 0
     },
     "verified": 0,
-    "unverified": 13
+    "unverified": 11
   },
   "schema_version": 2
 }
