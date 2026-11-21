@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 07:33 UTC",
-  "updated_at": "2026-11-21 07:33 UTC",
+  "updated": "2026-11-21 19:11 UTC",
+  "updated_at": "2026-11-21 19:11 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -68,6 +68,30 @@
         "entry": false
       },
       "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "freeEntry": false,
+      "eligibleCountriesVerified": false,
+      "deadlineVerified": false,
+      "directEntryVerified": false,
+      "review_status": "noch_pruefen"
+    },
+    {
+      "title": "«Jackass»-Star: Kamera als Ticket zur Unsterblichkeit",
+      "url": "https://www.antenne.de/nachrichten/stars/jackass-star-kamera-als-ticket-zur-unsterblichkeit",
+      "country": "Deutschland",
+      "published": "2026-11-21",
+      "deadline": "",
+      "category": "Sonstiges",
+      "source": "www.antenne.de",
+      "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
+      "verified": false,
+      "verification": {
+        "direct_link": false,
+        "deadline": false,
+        "free": false,
+        "country": false,
+        "entry": false
+      },
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Kostenlose Teilnahme nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -277,7 +301,7 @@
       "entry": 0
     },
     "verified": 0,
-    "unverified": 11
+    "unverified": 12
   },
   "schema_version": 2
 }
