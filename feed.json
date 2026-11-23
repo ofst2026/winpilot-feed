@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23 07:57 UTC",
-  "updated_at": "2026-11-23 07:57 UTC",
+  "updated": "2026-11-23 19:23 UTC",
+  "updated_at": "2026-11-23 19:23 UTC",
   "items": [
     {
       "title": "Gewinnspiele",
@@ -123,23 +123,23 @@
       "review_status": "noch_pruefen"
     },
     {
-      "title": "Die Philippinen gewinnen den ersten ESC Asia",
-      "url": "https://fm4.orf.at/beitrag/32826045",
+      "title": "Camo & Krooked: Gewinn Tickets zur Open Air Tour!",
+      "url": "https://fm4.orf.at/story/CamoKrooked-100",
       "country": "Österreich",
       "published": "2026-11-23",
       "deadline": "",
-      "category": "Sonstiges",
+      "category": "Sachpreise",
       "source": "fm4.orf.at",
       "description": "Gefundene Veranstalteraktion: Teilnahmebedingungen und Aktualität selbst prüfen.",
       "verified": false,
       "verification": {
-        "direct_link": true,
+        "direct_link": false,
         "deadline": false,
         "free": true,
         "country": false,
         "entry": false
       },
-      "verification_reason": "Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
+      "verification_reason": "Direkte Veranstalterseite nicht nachgewiesen; Gültige Teilnahmefrist nicht nachgewiesen; Teilnahmeberechtigung für das Land nicht nachgewiesen; Teilnahmemöglichkeit nicht nachgewiesen",
       "freeEntry": false,
       "eligibleCountriesVerified": false,
       "deadlineVerified": false,
@@ -243,10 +243,12 @@
       "review_status": "noch_pruefen"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Offizielle Seite https://www.rpr1.de/programm/aktionen/uebersicht-rpr1: IncompleteRead(64412 bytes read)"
+  ],
   "diagnostics": {
     "criteria_met": {
-      "direct_link": 5,
+      "direct_link": 4,
       "deadline": 0,
       "free": 3,
       "country": 0,
